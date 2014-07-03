@@ -1,19 +1,36 @@
 ============================================
 Archives sonores du CNRS - Musée de l'Homme
-============================================
+============================================	
+	
+|
+| Le fonds d’archives sonores du CNRS – Musée de l’Homme rassemble des enregistrements inédits et publiés de musique et de traditions orales du monde entier, de 1900 à nos jours. Constitué de supports variés (cylindres, 78 tours, disques vinyles, cassettes, supports numériques), ce fonds se positionne parmi les plus importants d’Europe en terme de qualité, de quantité et de diversité.
+| Pour une présentation historique du fonds, voir `le site du CREM <http://crem-cnrs.fr/archives-sonores>`_. 
+|
+|
 
-La constitution des archives sonores du `CREM <http://www.crem-cnrs.fr>`_ est l’aboutissement d’une longue histoire de la recherche scientifique sur la musique. Depuis la naissance de l’ethnomusicologie (alors « musicologie comparée »), qui coïncida avec l'invention des premiers appareils enregistreurs à la fin du XIXe siècle, l'enregistrement des documents musicaux, ainsi que leur classification et leur conservation occupent une place centrale dans notre connaissance de l’Homme musical.
+Contenu
+-------	
 
 .. image:: home_img.jpg
-    :align: left
+   :align: left 
+	
+Géré par le `Centre de Recherche en Ethnomusicologie (CREM) <http://crem-cnrs.fr>`_ cette base de données répertorie :
 
-Avec l'ouverture de la Phonothèque au Musée d'Ethnographie du Trocadéro par André Schaeffner en 1932 (qui devint la Phonothèque du Musée de l’Homme en 1937) puis la création en 1967 du "Laboratoire d'analyse du son" à l'initiative de Gilbert Rouget, ainsi que la création d'une équipe de recherche du `CNRS <http://www.cnrs.fr/>`_ en 1968, tous deux au `Musée de l’Homme <http://www.museedelhomme.fr/>`_, la conservation de ce vaste fonds d'archives sonores fut plus étroitement liée à la recherche : celui-ci est alimenté par les missions de terrain des chercheurs sur tous les continents ; les collections permettent à la fois des recherches de laboratoire, des comparaisons diachroniques et synchroniques, la préparation de nouveaux terrains et la formation des doctorants. En 1985, le `CNRS <http://www.cnrs.fr/>`_ et le `Musée National d'Histoire Naturelle <http://www.mnhn.fr/>`_ décidèrent de joindre leurs efforts pour conserver ce vaste fonds d'archives, baptisé dès lors "Archives sonores CNRS - Musée de l'Homme". Une petite partie de ces archives a été publiée en disques 78 tours (Africa Vox, etc…), disques 33 tours  et en CD (Chant du Monde, Harmonia Mundi). Actuellement, les supports analogiques sont en cours de numérisation grâce à l'aide du Ministère de la Culture et de la Bibliothèque Nationale de France, Avec l’installation du `Centre de Recherche en Ethnomusicologie <http://www.crem-cnrs.fr>`_ (CREM, `Laboratoire d'Ethnologie et de Sociologie Comparative <http://www.u-paris10.fr/LESC/0/fiche___laboratoire/&RH=rec_lab>`_, UMR 7186) à l’Université de Paris Ouest - Nanterre La Défense en 2009, et l’ouverture de la plate-forme `Telemeta <http://telemeta.org>`_ en 2011, ce fonds d’archives sonores entre dans l’ère de l'internet.
+|  ✔ Plus de 30 000 documents inédits, dont les 2/3 sont sonorisés, répartie dans plus de 1 000 collections, représentant près de 4 000 heures d'enregistrements de terrain non publiés.
+|  ✔ Plus de 13 000 enregistrements édités, dont 3 000 sonorisés, dans plus de 4 600 collections, pour environ 3 700 heures (incluant plus de 5 000 disques dont beaucoup sont très rares).
+|  ✔ 199 pays sont représentés à travers plus de 1 200 groupes ethniques ou sociaux, donnant à entendre une large palette d’expressions musicales et chantées, de langues et de dialectes.
 
-Les archives du CREM, parmi les plus importantes d’Europe, se distinguent par leur richesse :
+Certains enregistrements sont consultables avec un code d'accès. Pour l'obtenir écrivez à crem.lesc (at) mae.u-paris10.fr en expliquant les motifs de votre demande. Le fonds d'archives est également consultable sur les postes dédiés disponibles au `CREM <http://crem-cnrs.fr/contacts>`_, à la `Bibliothèque Eric de Dampierre <http://www.mae.u-paris10.fr/bibethno/>`_, à la `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ et à la `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_. 
 
- * près de 3500 heures d'enregistrements de terrain non publiés.
- * environ 3700 heures de documents publiés (plus de 5000 disques dont beaucoup sont très rares).
+|
 
-La plateforme collaborative `Telemeta <http://telemeta.org>`_ vise à rendre ces archives accessibles aux chercheurs et, dans la mesure du possible, au public, dans le respect des droits intellectuels et moraux des musiciens et des collecteurs. Mise au point grâce au soutien du programme `TGE-Adonis <http://www.tge-adonis.fr/>`_ du `CNRS <http://www.cnrs.fr/>`_, elle permet aux chercheurs d'échanger les données en ligne, avec les communautés productrices de ces musiques dans leur pays d'origine, notamment au moyen d’outils collaboratifs comme des marqueurs temporels, des espaces de commentaires, etc...
+Organisation du catalogue
+-------------------------
 
-La gestion de la plateforme est assurée par le `CREM <http://www.crem-cnrs.fr>`_. Le site accueille toutes les collaborations visant à enrichir et valoriser ce précieux patrimoine musical commun à toute l'Humanité. Actuellement, un millier d’heures est consultable en ligne avec un code d’accès, mais aussi `sur place au CREM (Université Paris-Ouest Nanterre-La Défense, bâtiment C, rez-de-chaussée, pièce 20) <http://goo.gl/maps/ZgHg>`_, ainsi qu’à la Bibliothèque centrale du Muséum National d’Histoire Naturelle, et à la Bibliothèque François Mitterand (rez de jardin).
+Le catalogue est organisé en 4 niveaux : Fonds, Corpus, Collection et Items. Le niveau principal de description est la Collection. Chacune regroupe un ensemble cohérent de fichiers audio (items) correspondant le plus souvent à des enregistrements collectés au cours d’une même mission de recherche ou à un disque publié. Certaines collections sont elles-mêmes regroupées en corpus et en fonds associés à des collecteurs. 
+
+Le nombre d’enregistrements mis en ligne sur la plateforme est en constante augmentation. Les fiches descriptives sont renseignées de manière collaborative par les usagers de la plateforme : chercheurs, étudiants, documentalistes. 
+
+Le CREM accueille toutes les collaborations visant à enrichir et valoriser ce précieux patrimoine. Ecrivez-nous à crem.lesc (at) mae.u-paris10.fr.
+
+|

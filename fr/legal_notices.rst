@@ -11,8 +11,8 @@ Mentions Légales
 
 **Directeur de publication :**
 
- | Jean Lambert (directeur du CREM)
- | e-mail : lambert (at) mnhn.fr
+ | Victor A. Stoichiţă (directeur du CREM)
+ | e-mail : crem.lesc (at) mae.u-paris10.fr
 
 **Chef de projet et conception :**
 

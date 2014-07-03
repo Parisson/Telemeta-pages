@@ -11,8 +11,8 @@ Legal Notices
 
 **Managing editor:**
 
- | Jean Lambert (director du CREM)
- | e-mail : lambert (at) mnhn.fr
+ | Victor A. Stoichiţă (director du CREM)
+ | e-mail : crem.lesc (at) mae.u-paris10.fr
 
 **Design and project manager:**
 

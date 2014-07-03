@@ -2,20 +2,35 @@
 Sound archives of the CNRS - Musée de l'Homme
 ==============================================
 
-The establishment of the `CREM <http://www.crem-cnrs.fr>`_’s audio archives is the result of a long history of scientific research on music. Since the birth of ethnomusicology (then "comparative musicology"), which coincided with the invention of the first recorders in the late nineteenth century, recording music materials and their classification and preservation are central in our knowledge of the musical Man.
+|
+| The audio archives of the CNRS – Musée de l’Homme gather commercial and unpublished recordings of music and oral traditions from around the world, from 1900 to the present.  Consisting of diverse types of media (wax cylinders, 78 rpm, vinyl records, magnetic tapes, audio CDs, born digital records), these archives are among the most important in Europe in terms of quality, quantity and diversity.
+| For a historical presentation of these archives, see `the website of the CREM <http://crem-cnrs.fr>`_.
+|
+|
+
+Contents
+--------
 
 .. image:: home_img.jpg
-    :align: left
+   :align: left
+    
+Managed by the `Center for Research in Ethnomusicology (CREM) <http://crem-cnrs.fr>`_, these archives index:
 
-With the foundation of the Sound Archive at the Musée d’Ethnographie du Trocadéro by André Schaeffner in 1932 (which became the Sound Archive of the Musée de l’Homme in 1937) and the creation in 1967 of "Laboratoire d’Analyse sonore" on Gilbert Rouget initiative and the creation of a research team from the `CNRS <http://www.cnrs.fr/>`_ (Scientific Research National Center in France) in 1968, both at the `Musée de l’Homme <http://www.museedelhomme.fr/>`_, the conservation of this vast archives collection was more closely related to research : it is powered by the fieldworks of researchers on all continents; collections can serve for research, diachronic and synchronic comparisons, the preparation of new fieldworks and the training of Ph.D students. In 1985, the `CNRS <http://www.cnrs.fr/>`_ and the `Musée National d'Histoire Naturelle <http://www.mnhn.fr/>`_ (National Museum of Natural History) decided to join efforts to preserve this vast archives, therefore called "Sound Archives of CNRS - Musée de l'Homme". A small portion of these archives has been published in 78s (Vox Africa, etc ...), 33 rpm discs and CD (Chant du Monde, Harmonia Mundi). Currently, analogic media are being digitalized with the assistance of the Ministry of Culture and National Library of France. With the installation of the `Center for Research in Ethnomusicology <http://www.crem-cnrs.fr>`_ (CREM, Department of Ethnology and Comparative Sociology, CNRS UMR 7186) at the University of Paris Ouest-Nanterre in 2009, and the opening of the `Telemeta <http://telemeta.org>`_ platform in 2010, this collection sound archives from the era of the Internet.
+| ✔ Over 30,000 unpublished sound documents, among which two-thirds are available for listening, spread though more that 1,000 collections, representing about 4,000 hours of recordings of unpublished fieldworks.
+| ✔ Over 13,000 published materials, among which 3,000 are available for listening, in more than 4,600 collections, for about 3,700 hours (including more than 5,000 discs among which some are very rare)
+| ✔ 199 countries, and 1,200 ethnic and social groups are represented, making it possible to hear a wide array of musical and sung expressions, languages and dialects. 
 
-The archives of CREM, the most important in Europe, are distinguished by their wealth:
 
- * Nearly 3,500 hours of recordings of unpublished field.
- * Approximately 3700 hours of material published (more than 5000 discs, many of which are very rare).
+Some recordings are only available for listening with an access code. To obtain one, write to
+crem.lesc (at) mae.u-paris10.fr, explaining the reasons for your request. The archives database is also available on computer sets at the `CREM <http://crem-cnrs.fr/contacts>`_, at the `Bibliothèque Eric de Dampierre <http://www.mae.u-paris10.fr/bibethno/>`_, at the `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ and at the `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_. 
 
-The collaborative platform `Telemeta <http://telemeta.org>`_ aims to make these archives available to researchers and to the extent possible, the public, in compliance with the intellectual and moral rights of musicians and collectors. Developed with the support of the program `TGE-Adonis <http://www.tge-adonis.fr/>`_ of the `CNRS <http://www.cnrs.fr/>`_, allows researchers to exchange data online with communities producing their music in their home countries, including through collaborative tools like markers , spaces, comments, etc...
+|
 
-This site is managed by the `CREM <http://www.crem-cnrs.fr>`_. All collaborations are welcome to enrich and enhance this precious musical heritage common to all humanity. Currently, a thousand hours is searchable by code or `access on site and CREM (Université Paris Ouest - Nanterre - La Défense, Building C, Ground Floor, Room 20) <http://goo.gl/maps/ZgHg>`_, and the Central Library Muséum National d'Histoire Naturelle, and the Bibliothèque François Mitterand (garden).
+Organization of the catalogue
+-----------------------------
+
+The database is organized on 4 hierarchical levels of description: Archives Group (Fonds) > Corpus > Collection > Item. The main level of description is ‘Collection’. Each gathers a relevant ensemble of sound items corresponding to recordings collected within one research fieldwork or to a published record. Some collections are assembled together in corpuses and archive groups linked to their collectors. 
+
+The number of recordings available online on the platform is constantly increasing. The platform’s users fill descriptive forms collaboratively: researchers, students, archivists working together. The CREM welcomes all collaborations aiming to enrich and enhance this valued musical patrimony. You can write to us at crem.lesc (at) mae.u-paris10.fr.
 
 |
