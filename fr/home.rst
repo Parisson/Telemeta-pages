@@ -1,19 +1,70 @@
-============================================
-Archives sonores du CNRS - Musée de l'Homme
-============================================
+===================================================
+Telemeta : open web audio platform with semantics
+===================================================
 
-La constitution des archives sonores du `CREM <http://www.crem-cnrs.fr>`_ est l’aboutissement d’une longue histoire de la recherche scientifique sur la musique. Depuis la naissance de l’ethnomusicologie (alors « musicologie comparée »), qui coïncida avec l'invention des premiers appareils enregistreurs à la fin du XIXe siècle, l'enregistrement des documents musicaux, ainsi que leur classification et leur conservation occupent une place centrale dans notre connaissance de l’Homme musical.
+|
 
-.. image:: home_img.jpg
-    :align: left
+Telemeta is a free and open source web audio content management system which introduces useful and secure methods to backup, index, transcode, analyse and publish any digitalized audio file with its metadata. It is dedicated to professionnals who wants to easily organize, backup, archive and publish documented sound collections of audio files, CDs, digitalized vinyls and magnetic tapes over a strong database, in accordance with open web standards.
 
-Avec l'ouverture de la Phonothèque au Musée d'Ethnographie du Trocadéro par André Schaeffner en 1932 (qui devint la Phonothèque du Musée de l’Homme en 1937) puis la création en 1967 du "Laboratoire d'analyse du son" à l'initiative de Gilbert Rouget, ainsi que la création d'une équipe de recherche du `CNRS <http://www.cnrs.fr/>`_ en 1968, tous deux au `Musée de l’Homme <http://www.museedelhomme.fr/>`_, la conservation de ce vaste fonds d'archives sonores fut plus étroitement liée à la recherche : celui-ci est alimenté par les missions de terrain des chercheurs sur tous les continents ; les collections permettent à la fois des recherches de laboratoire, des comparaisons diachroniques et synchroniques, la préparation de nouveaux terrains et la formation des doctorants. En 1985, le `CNRS <http://www.cnrs.fr/>`_ et le `Musée National d'Histoire Naturelle <http://www.mnhn.fr/>`_ décidèrent de joindre leurs efforts pour conserver ce vaste fonds d'archives, baptisé dès lors "Archives sonores CNRS - Musée de l'Homme". Une petite partie de ces archives a été publiée en disques 78 tours (Africa Vox, etc…), disques 33 tours  et en CD (Chant du Monde, Harmonia Mundi). Actuellement, les supports analogiques sont en cours de numérisation grâce à l'aide du Ministère de la Culture et de la Bibliothèque Nationale de France, Avec l’installation du `Centre de Recherche en Ethnomusicologie <http://www.crem-cnrs.fr>`_ (CREM, `Laboratoire d'Ethnologie et de Sociologie Comparative <http://www.u-paris10.fr/LESC/0/fiche___laboratoire/&RH=rec_lab>`_, UMR 7186) à l’Université de Paris Ouest - Nanterre La Défense en 2009, et l’ouverture de la plate-forme `Telemeta <http://telemeta.org>`_ en 2011, ce fonds d’archives sonores entre dans l’ère de l'internet.
+Here are the main features of Telemeta:
 
-Les archives du CREM, parmi les plus importantes d’Europe, se distinguent par leur richesse :
+ * Secure archiving, editing and publishing of audio files over internet.
+ * Pure HTML web user interface including dynamical forms and smart workflows
+ * Smart dynamical and skinnable audio player (thanks to TimeSide_)
+ * "On the fly" audio analyzing, transcoding and metadata embedding based on an easy plugin architecture
+ * Social cumulative indexing with semantic ontologies and timecoded markers
+ * Multi-format support : FLAC, OGG, MP3, WAV and more
+ * User management with individual desk, lists, profiles and rights
+ * Playlist management for all users with CSV data export
+ * Geo-Navigator for audio geolocalization
+ * High level search engine
+ * Dublin Core compatibility
+ * OAI-PMH_ data provider
+ * RSS feed generators
+ * XML serialized backup
+ * Strong SQL or Oracle backend
+ * Multi-language support: english, french, german and chinese
 
- * près de 3500 heures d'enregistrements de terrain non publiés.
- * environ 3700 heures de documents publiés (plus de 5000 disques dont beaucoup sont très rares).
+This software is exclusively based on open source modules and can be run on any Unix or Linux system. [[BR]]
+It is mostly written in Python and Javascript.
 
-La plateforme collaborative `Telemeta <http://telemeta.org>`_ vise à rendre ces archives accessibles aux chercheurs et, dans la mesure du possible, au public, dans le respect des droits intellectuels et moraux des musiciens et des collecteurs. Mise au point grâce au soutien du programme `TGE-Adonis <http://www.tge-adonis.fr/>`_ du `CNRS <http://www.cnrs.fr/>`_, elle permet aux chercheurs d'échanger les données en ligne, avec les communautés productrices de ces musiques dans leur pays d'origine, notamment au moyen d’outils collaboratifs comme des marqueurs temporels, des espaces de commentaires, etc...
+Telemeta is sponsored by :
 
-La gestion de la plateforme est assurée par le `CREM <http://www.crem-cnrs.fr>`_. Le site accueille toutes les collaborations visant à enrichir et valoriser ce précieux patrimoine musical commun à toute l'Humanité. Actuellement, un millier d’heures est consultable en ligne avec un code d’accès, mais aussi `sur place au CREM (Université Paris-Ouest Nanterre-La Défense, bâtiment C, rez-de-chaussée, pièce 20) <http://goo.gl/maps/ZgHg>`_, ainsi qu’à la Bibliothèque centrale du Muséum National d’Histoire Naturelle, et à la Bibliothèque François Mitterand (rez de jardin).
+    * Parisson_ : Custom media solutions
+    * CNRS_ : Centre National de la Recherche Scientifique (the french Natianal Research and Scientific Center)
+    * MCC_ : Ministère de la Culture et de la Communication (the french Ministry of the Culture and Communication)
+    * CREM_ : Centre de Recherche en Ethnomusicologie (the french Ethnomusicology Research Center)
+    * HumaNum_ : TGIR des humanités numériques
+
+The Telemeta project is managed by :
+
+  * Guillaume Pellerin <guillaume.pellerin (at) parisson.com>
+  * Joséphine Simonnot <josephine.simonnot (at) mae.u-paris10.fr>.
+
+Telemeta is part of the DIADEMS_ project granted by the ANR (French Research Agency). The academic laboratories involved are: IRIT_, LIMSI_, LAM_, CREM_, LABRI_, MNHN_
+
+The Telemeta application is or has been developed by :
+
+  * Guillaume Pellerin (Parisson_)
+  * Thomas Fillon (Parisson_)
+  * Paul Brossier (Parisson_)
+  * Riccardo Zaccarelli (Parisson_)
+  * Olivier Guilyardi (Samalyse_)
+
+.. _TimeSide: https://github.com/yomguy/TimeSide/
+.. _OAI-PMH: http://fr.wikipedia.org/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting
+.. _Parisson: http://parisson.com
+.. _CNRS: http://cnrs.fr
+.. _MCC: http://www.culturecommunication.gouv.fr
+.. _CREM: http://www.crem-cnrs.fr
+.. _HumaNum: http://www.huma-num.fr
+.. _IRIT: http://www.irit.fr
+.. _LIMSI: http://www.limsi.fr/index.en.html
+.. _LAM: http://www.lam.jussieu.fr
+.. _LABRI: http://www.labri.fr
+.. _MNHN: http://www.mnhn.fr
+.. _MMSH: http://www.mmsh.univ-aix.fr
+.. _UPMC: http://www.upmc.fr
+.. _Samalyse: http://www.samalyse.com
+.. _DIADEMS: http://www.irit.fr/recherches/SAMOVA/DIADEMS/fr/welcome/
+
