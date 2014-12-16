@@ -171,7 +171,7 @@ Partners and sponsors
 License
 =======
 
-You can use this application in accordance with term of the CeCILL license v2 which is compatible with GPL v2 (see `LICENSE <http://github.com/yomguy/Telemeta/blob/master/LICENSE.txt>`_) for more informations.
+You can use this application in accordance with term of the CeCILL license v2 which is compatible with GPL v2 license (see `LICENSE <http://github.com/yomguy/Telemeta/blob/master/LICENSE.txt>`_) for more informations.
 
 
 .. _Telemeta: http://telemeta.org
