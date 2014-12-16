@@ -33,7 +33,7 @@ Telemeta is sponsored by :
     * Parisson_ : Custom media solutions
     * CNRS_ : Centre National de la Recherche Scientifique (the french Natianal Research and Scientific Center)
     * MCC_ : Ministère de la Culture et de la Communication (the french Ministry of the Culture and Communication)
-    * CREM_ : Centre de Recherche en Ethnomusicologie (the french Ethnomusicology Research Center)
+    * CREM_ : Centre de Recherche en Ethnomusicologiethe french Ethnomusicology Research Center)
     * HumaNum_ : TGIR des humanités numériques
 
 The Telemeta project is managed by :
