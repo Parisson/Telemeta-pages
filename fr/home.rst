@@ -4,6 +4,9 @@ Telemeta : open web audio platform with semantics
 
 |
 
+.. image:: telemeta_en_thumb.png
+   :align: left
+
 Telemeta_ is a free and open source web audio archiving software which introduces useful and secure methods to backup, index, transcode, analyse and publish any digitalized audio file with extensive metadata. It is dedicated to collaborative media archiving projects, research laboratories and digital humanities - and especially in ethnomusicological use cases - who wants to easily organize, backup and publish documented sound collections of audio files, CDs, digitalized vinyls and magnetic tapes over a strong database, in accordance with open web standards.
 
 Features
