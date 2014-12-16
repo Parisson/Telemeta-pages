@@ -36,11 +36,11 @@ The processing engine of Telemeta is a separate project called TimeSide_ as an o
 Funding and Support
 ===================
 
-To fund the Telemeta project and continue the development process, we need your explicit support. So if you use Telemeta in production or even in development, please let us **know** by:
+To continue the development process, the project needs your explicit support. So if you use Telemeta in production or even in development, please let us know by:
 
  * staring or forking the project on GitHub_
- * tweeting to @parisson_studio_ or @telemeta_
- * droping an email to <support@parisson.com>
+ * tweeting to `@parisson_studio <https://twitter.com/parisson_studio>`_ or `@telemeta <https://twitter.com/telemeta>`_
+ * droping us an email to <support@parisson.com>
 
 Thanks for your help!
 
@@ -48,24 +48,24 @@ Thanks for your help!
 News
 ======
 
-1.5
+ * 1.5
 
- * Compatible with Django 1.6.x
- * Compatible with TimeSide 0.6.x
- * Huge refactor of all forms, detail and edit views
- * Main styles (buttons, tabs) are now based Bootstrap 3 and JQuery 2.1
- * Update models and views as needed by the CREM
- * New depedencies
+   * Compatible with Django 1.6.x
+   * Compatible with TimeSide 0.6.x
+   * Huge refactor of all forms, detail and edit views
+   * Main styles (buttons, tabs) are now based Bootstrap 3 and JQuery 2.1
+   * Update models and views as needed by the CREM
+   * New depedencies
 
-1.4.6
+ * 1.4.6
 
- * Drastically improve collection zip packaqe streaming thanks to zipstream (check NEW dependencies)
- * Compatible with TimeSide >= 0.5.2
- * Add URL field to item so that a external sound can be indexed and streamed
- * Add TIMESIDE_AUTO_ZOOM in settings to auto toggle the player in zooming mode
- * Add TIMESIDE_DEFAULT_GRAPHER_ID in settings to select the default grapher in the player
- * Add minor migrations
- * Fix marker display bug
+   * Drastically improve collection zip packaqe streaming thanks to zipstream (check NEW dependencies)
+   * Compatible with TimeSide >= 0.5.2
+   * Add URL field to item so that a external sound can be indexed and streamed
+   * Add TIMESIDE_AUTO_ZOOM in settings to auto toggle the player in zooming mode
+   * Add TIMESIDE_DEFAULT_GRAPHER_ID in settings to select the default grapher in the player
+   * Add minor migrations
+   * Fix marker display bug
 
 
 See also the full CHANGELOG_
@@ -84,7 +84,7 @@ Usecases
 
  * `LAM Sound Archives <http://telemeta.lam.jussieu.fr>`_  of the "Lutherie, Acoustique et Musique" team (LAM_) at UPMC_ (University Paris 6, France)
  * `Parisson Sound Archives <http://parisson.telemeta.org>`_
- * SADIOD_ : ScAled BIODiversity project
+ * SABIOD_ : ScAled BIODiversity project
 
 
 Demo
@@ -131,9 +131,9 @@ Email:
 
 Twitter:
 
- * @telemeta_
- * @parisson_studio_
- * @yomguy_
+ * `@telemeta <https://twitter.com/telemeta>`_
+ * `@parisson_studio <https://twitter.com/parisson_studio>`_
+ * `@yomguy <https://twitter.com/yomguy>`_
 
 If you find some bugs, please `leave a ticket <https://github.com/Parisson/Telemeta/issues/new>`_
 
@@ -143,8 +143,8 @@ Authors
 
 The Telemeta project is managed by:
 
-  * Guillaume Pellerin, Parisson_ : <guillaume.pellerin@parisson.com> @yomguy_
-  * Joséphine Simonnot, CREM_ : <josephine.simonnot@mae.u-paris10.fr>
+  * Guillaume Pellerin, Parisson_ <guillaume.pellerin@parisson.com> `@yomguy <https://twitter.com/yomguy>`_
+  * Joséphine Simonnot, CREM_ <josephine.simonnot@mae.u-paris10.fr>
 
 The application is or has been developed by:
 
@@ -171,15 +171,14 @@ Partners and sponsors
 License
 =======
 
-You can use this application in accordance with term of the CeCILL license v2 which is compatible with GPL v2 (see `LICENSE <http://github.com/yomguy/Telemeta/blob/master/LICENSE>`_) for more informations.
-
+You can use this application in accordance with term of the CeCILL license v2 which is compatible with GPL v2 (see `LICENSE <http://github.com/yomguy/Telemeta/blob/master/LICENSE.txt>`_) for more informations.
 
 
 .. _Telemeta: http://telemeta.org
 .. _TimeSide: https://github.com/yomguy/TimeSide/
 .. _OAI-PMH: http://fr.wikipedia.org/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting
 .. _Parisson: http://parisson.com
-.. _CNRS: http://cnrs.fr
+.. _CNRS: http://www.cnrs.fr
 .. _MCC: http://www.culturecommunication.gouv.fr
 .. _CREM: http://www.crem-cnrs.fr
 .. _HumaNum: http://www.huma-num.fr
@@ -201,8 +200,5 @@ You can use this application in accordance with term of the CeCILL license v2 wh
 .. _Example : http://archives.crem-cnrs.fr/archives/items/CNRSMH_E_2004_017_001_01/
 .. _Homepage: http://telemeta.org
 .. _Installation: http://github.com/yomguy/Telemeta/blob/master/INSTALL.rst
-.. _@telemeta : https://twitter.com/telemeta
-.. _@parisson_studio: https://twitter.com/parisson_studio
 .. _GITHUB: https://github.com/Parisson/Telemeta
-.. _@yomguy: https://twitter.com/yomguy
 
