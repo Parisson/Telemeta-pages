@@ -3,13 +3,17 @@ Archives sonores du CNRS - Musée de l'Homme
 ============================================	
 	
 |
-| Le fonds d’archives sonores du CNRS – Musée de l’Homme rassemble des enregistrements inédits et publiés de musique et de traditions orales du monde entier, de 1900 à nos jours. Constitué de supports variés (cylindres, 78 tours, disques vinyles, cassettes, supports numériques), ce fonds se positionne parmi les plus importants d’Europe en terme de qualité, de quantité et de diversité.
-| Pour une présentation historique du fonds, voir `le site du CREM <http://crem-cnrs.fr/archives-sonores>`_. 
-|
-| NEWS 
-| Les archives du CREM/LESC participent au projet de portail sonore européen (2014-2017) : `Europeana Sounds <http://www.europeanasounds.eu>`_. 
-| Les options d'affichage du lecteur audio sont en cours d'élaboration par l'ANR `DIADEMS <http://www.irit.fr/recherches/SAMOVA/DIADEMS/fr/welcome/>`_. Etant en phase expérimentale, ces outils ne sont pas encore opérationnels. Merci de votre compréhension.
-| 
+
+Le fonds d’archives sonores du CNRS – Musée de l’Homme rassemble des enregistrements inédits et publiés de musique et de traditions orales du monde entier, de 1900 à nos jours. Constitué de supports variés (cylindres, 78 tours, disques vinyles, cassettes, supports numériques), ce fonds se positionne parmi les plus importants d’Europe en terme de qualité, de quantité et de diversité.
+
+Pour une présentation historique du fonds, voir `le site du CREM <http://crem-cnrs.fr/archives-sonores>`_. 
+
+Actualités
+-----------
+
+Les archives du CREM/LESC participent au projet de portail sonore européen (2014-2017) : `Europeana Sounds <http://www.europeanasounds.eu>`_. 
+
+Les options d'affichage du lecteur audio sont en cours d'élaboration par l'ANR `DIADEMS <http://www.irit.fr/recherches/SAMOVA/DIADEMS/fr/welcome/>`_. Etant en phase expérimentale, ces outils ne sont pas encore tous opérationnels. Merci de votre compréhension. 
 
 Contenu
 -------	

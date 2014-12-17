@@ -3,13 +3,17 @@ Sound archives of the CNRS - Musée de l'Homme
 ==============================================
 
 |
-| The audio archives of the CNRS – Musée de l’Homme gather commercial and unpublished recordings of music and oral traditions from around the world, from 1900 to the present.  Consisting of diverse types of media (wax cylinders, 78 rpm, vinyl records, magnetic tapes, audio CDs, born digital records), these archives are among the most important in Europe in terms of quality, quantity and diversity.
-| For a historical presentation of these archives, see `the website of the CREM <http://crem-cnrs.fr>`_.
-|
-| NEWS
-| The archives of the CREM / LESC involved in the project of European sound portal (2014-2017): `Europeana Sounds <http://www.europeanasounds.eu>`_. 
-| Display audio player options are being developed by the `DIADEMS <http://www.irit.fr/recherches/SAMOVA/DIADEMS/fr/welcome/>`_ program. As in the experimental phase, these tools are not yet operational. Thank you for your understanding.
-| 
+
+The audio archives of the CNRS – Musée de l’Homme gather commercial and unpublished recordings of music and oral traditions from around the world, from 1900 to the present.  Consisting of diverse types of media (wax cylinders, 78 rpm, vinyl records, magnetic tapes, audio CDs, born digital records), these archives are among the most important in Europe in terms of quality, quantity and diversity.
+
+For a historical presentation of these archives, see `the website of the CREM <http://crem-cnrs.fr>`_.
+
+News
+-----
+
+The archives of the CREM / LESC involved in the project of European sound portal (2014-2017): `Europeana Sounds <http://www.europeanasounds.eu>`_. 
+
+Display audio player options are being developed by the `DIADEMS <http://www.irit.fr/recherches/SAMOVA/DIADEMS/fr/welcome/>`_ program. As in the experimental phase, these tools are not all yet operational. Thank you for your understanding.
 
 Contents
 --------
