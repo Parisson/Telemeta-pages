@@ -23,7 +23,7 @@ Contenu
 	
 Géré par le `Centre de Recherche en Ethnomusicologie (CREM) <http://crem-cnrs.fr>`_ cette base de données répertorie :
 
-|  ✔ Plus de 30 000 documents inédits, dont les 2/3 sont sonorisés, répartie dans plus de 1 000 collections, représentant près de 4 000 heures d'enregistrements de terrain non publiés.
+|  ✔ Plus de 35 000 documents inédits, dont les 2/3 sont sonorisés, répartie dans plus de 1 000 collections, représentant près de 4 000 heures d'enregistrements de terrain non publiés.
 |  ✔ Plus de 13 000 enregistrements édités, dont 3 000 sonorisés, dans plus de 4 600 collections, pour environ 3 700 heures (incluant plus de 5 000 disques dont beaucoup sont très rares).
 |  ✔ 199 pays sont représentés à travers plus de 1 200 groupes ethniques ou sociaux, donnant à entendre une large palette d’expressions musicales et chantées, de langues et de dialectes.
 
