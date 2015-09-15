@@ -1,30 +1,13 @@
 ================================================
-Telemeta : le CMS audio social, libre et ouvert
+Archives sonores du LAM - IJLRA – CNRS
 ================================================
 
-`Telemeta <http://telemeta.org>`_ est une solution libre d'archivage et d'indexation audio basée sur une interface de type web. Elle offre des fonctions avancées d'édition, d'indexation, de transcodage, de publication et de sauvegarde d'archives audio et de leurs méta-données. Il donne accès aux ressources distantes publiées ou privatisés issues de collections numérisées (fichiers, CD audio, vinyl ou bandes magnétiques) par l'intermédiaire d'un simple navigateur ou d'une application dédiée en accord avec les standards du web.
+La constitution des archives sonores du `LAM <http://www.lam.jussieu.fr>`_ est l'aboutissement des années de recherches en acoustique musicale commencées dans les années 60 par Emile Leipp et poursuivies jusqu'à aujourd'hui au sein du Laboratoire d'Acoustique Musicale, puis de l'équipe Lutheries Acoustique Musique de l'Institut Jean Le Rond D'Alembert.
 
-Liste des fonctionnalités principales:
+Les archives du LAM / `IJLRA <http://www.dalembert.upmc.fr/ijlrda/>`_  se composent des enregistrements des réunions du Groupe d'Acoustique Musicale (GAM) et d'enregistrements d'études acoustiques effectuées avec des instruments de musique très divers, comme par exemple la "Campagne de restauration" des orgues de France menée par le Ministère de la Culture des années 1986 à 2003 (avant et après restauration), ainsi que les enregistrements menés dans les différents lieux en France. Ces collections constituent une banque de sons, riche et précieuse pour les recherches sur les instruments de musique tout d'abord mais également sur la perception ou les liens entre acoustique et création musicale.
 
- * Edition, archivage pérenne sécurisé, indexation collaborative sur la base d'une application web
- * Interface utilisateur conforme aux standards ouverts du web
- * Moteur de recherche par mots clés ou par critères (géographiques, ethniques, etc...)
- * Lecteur audio avancé dynamique et paramétrable (tous formats audio et video supportés)
- * Moteur d'analyse et de visualisation audio basée sur une structure de modules paramétrables
- * Transcodage vers les formats FLAC, OGG, MP3 et WAV avec encapsulation des métadonnées à la volée
- * Gestion complète des droits et profils utilisateurs
- * Gestion de listes de lecture personnelles avec export CSV
- * Indexation temporelle à la volée (marqueurs textuels sur le lecteur web audio)
- * Base de données relationnelle (type MySQL)
- * Service d'accès aux données par le protocole OAI-PMH (moissonnage)
- * Compatibilité `DublinCore <http://dublincore.org/>`_
- * Service de moissonnage `OAI-PMH <http://www.openarchives.org/pmh/>`_ 
- * Geo-navigateur pour la géolocalisation audio (Google Maps)
- * Flux RSS dynamique des dernières modifications
- * Sauvegarde sérialisée des archives et de leurs métadonnées aux formats WAV + XML
- * Traduction complète anglais / français (détection automatique et/ou contrainte manuelle)
- 
-Ce CMS audio est exclusivement basé sur des modules open source et peut être installé sur tout système Linux ou Unix.
-Il est majoritairement écrit en Python et JavaScript.
+Ces archives sont constituées de supports d'enregistrements divers, principalement des bandes magnétiques, environ 2000 heures d'enregistrements. La numérisation et la sauvegarde sur un serveur via la plateforme Telemeta va permettre de préserver ce patrimoine historique, menacé par l'obsolescence et la dégradation inéluctable des supports analogiques.
 
-|
+La plateforme collaborative `Telemeta <http://telemeta.org/>`_ vise à rendre ces archives accessibles aux chercheurs et, dans la mesure du possible, au public, dans le respect des droits intellectuels et moraux des musiciens et des collecteurs. Mise au point grâce au soutien du programme du Très Grand Equipement Adonis du `CNRS <http://www.cnrs.fr/>`_ (INSHS), elle permet aux chercheurs d'échanger les données en ligne, notamment au moyen d’outils collaboratifs comme des marqueurs temporels pour l'annotation du document sonore, des espaces de commentaires, etc...
+
+La plateforme Telemeta a été mise en ligne en mai 2012. Sa gestion est assurée par le LAM. Les différentes campagnes de numérisation du fonds existant permettront, successivement, l'enrichissement de son contenu. 
