@@ -2,19 +2,48 @@
 Tonarchiv des CNRS - Musée de l'Homme
 ===================================================
 
-Der Aufbau des Tonarchives des Zentrums für musikethnologische Forschung, `CREM <http://www.crem-cnrs.fr>`_, ist der Erfolg einer langen Geschichte der wissenschaftlichen Erforschung der Musik. Seit der Entstehung der Ethnomusikologie (also der "vergleichenden Musikologie"), die zusammenfällt mit der Erfindung der ersten Tonaufzeichnungsgeräte am Ende des 19. Jahrhunderts, besitzen die Aufzeichnung von musikalischen Dokumenten, ebenso wie ihre Klassifikation und ihre Konservierung einen zentralen Platz in unserem Wissen über den musikalischen Menschen.
+|
+
+Mit Beginn des Jahres 1900 bis in die heutige Zeit sammelt das Audioarchiv des CNRS - Musée de l’Homme veröffentlichte und nicht veröffentlichte Musikaufnahmen und Zeugnisse oraler Traditionen aus aller Welt. Das Archiv ist eines der bedeutendsten und qualitativ hochwertigsten Europas, was sich an der enormen Vielfalt von Klangaufnahmen ablesen lässt, welche auf verschiedensten Medien (Wachswalzen, 78 rpm, Schallplatten, Magnetbändern, Audio CDs und digitaler Aufnahmen) dokumentiert sind.
+
+Mehr über die Geschichte des Archivs erfahren sie hier :`website CREM <http://crem-cnrs.fr/archives-sonores>`_.
+
+News
+----
+
+Das Archiv CREM / LESC ist Teil des European sound portal (2014-2017) : `Europeana Sounds <http://www.europeanasounds.eu>`_.
+Die Display Optionen des Audio Players werden im Rahmen des DIADEMS Programms entwickelt. Da sich dieses Programm in der Aufbauphase befindet, sind noch nicht alle Funktionen im Betrieb. Wir bitten um ihr Verständnis.
 
 .. image:: home_img.jpg
     :align: left
 
-Mit der Eröffnung der Phonothek im Ethnographischen Museum am Trocadéro durch André Schaeffner im Jahre 1932 (woraus 1937 die Phonothek des "Musée de l'Homme" wurde) und der Schaffung des "Laboratoriums für Tonanalyse" auf Initiative von Gilbert Rouget, ebenso wie durch die Schaffung einer Forschungsgruppe des `CNRS <http://www.cnrs.fr/>`_ im Jahr 1968, beide im "`Musée de l’Homme <http://www.museedelhomme.fr/>`_", wurde die Konservierung des riesigen Fundus des Tonarchivs enger an die Forschung angebunden: Sie wird gespiesen durch die Expeditionen der Forschenden auf allen Kontinenten; diese Sammlungen dienen zugleich auch der Forschung im Labor, für diachrone und synchrone Vergleiche, für die Entstehung neuer Arbeitsgebiete und zur Ausbildung von Doktorierenden. 1985 beschlossen das `CNRS <http://www.cnrs.fr/>`_ und das `Nationale Naturhistorische Museum <http://www.mnhn.fr/>`_, ihre Anstrengungen zu bündeln, um diesen riesigen Archivbestand zu erhalten. Er bekam den Namen "Tonarchiv CNRS - Musée de l'Homme". Ein kleiner Teil des Archivs wurde publiziert auf 78-Touren-Schallplatten (Africa Vox, etc.), auf 33-Touren-Schallplatten und auf CD (Chant du Monde, Harmonia Mundi). Derzeit werden die analogen Tongträger digitalisiert mit der Unterstützung des Kulturministeriums und der Nationalbibliothek. Mit der Gründung des `Zentrums für musikethnologische Forschung <http://www.crem-cnrs.fr>`_ (CREM, Labor für Ethnologie und vergleichende Soziologie, UMR 7186) an der Universität Paris Ouest - Nanterre La Défense im Jahre 2009 und der Eröffnung der Plattform `Telemeta <http://telemeta.org>`_ im Jahr 2011, finden diese Tonarchivbestände Eingang in das Internetzeitalter.
+Inhalte 
+-------
 
-Die Archive des CREM gehören zu den wichtigsten in Europa. Sie zeichnen sich insbesondere aus durch ihre Reichhaltigkeit:
+Das Archiv ist Teil des Center for Research in Ethnomusicology (CREM) und umfasst:
 
- * mehr als 3'500 Stunden unpublizierte Aufzeichnungen aus dem Feld
- * rund 3'700 Stunden veröffentlichte Dokumente (mehr als 5'000 Schallplatten, darunter viele sehr seltene)
+|  ✔  Über 36.000 unveröffentlichte Klangdokumente, von denen zweidrittel verteilt aus mehr als 1000 Sammlungen für den Hörer zugänglich sind, was 4.000 Aufnahmestunden dieser unveröffentlichten Feldaufnahmen entspricht
+|  ✔ Über 13.000 veröffentlichtes Material, wovon 3.600 in mehr als 4600 Sammlungen mit mehr als 3.700 Stunden gehört werden können (darunter befinden sich 5.000 Vinyl-Scheibe, wovon einige sehr selten sind)
+|  ✔ Klangaufnahmen aus 199 Länder und 1.200 ethnischen bzw. sozialen Gruppen, was einen Zugang zu einer hohen Bandbreite an musikalischen Praktiken, Sprachen, Gesängen und Dialekten bedeutet. 
 
-Die kollaborative Plattform `Telemeta <http://telemeta.org>`_ hat zum Ziel, diese Bestände zugänglich zu machen für Forschende, und soweit möglich auch für die Oeffentlichkeit, unter Respektierung des geistigen und moralischen Eigentums der MusikerInnen und SammlerInnen. Aufgebaut mit der Unterstützung des Programmes `TGE-Adonis <http://www.tge-adonis.fr/>`_ des `CNRS <http://www.cnrs.fr/>`_, erlaubt die Plattform den Forschenden den online-Austausch mit den Gemeinschaften, aus denen die Musik stammt, in ihrem Ursprungsland, insbesondere auch durch kollaborative Werkzeuge wie Zeitmarken, Kommentarfunktionen etc.
+Derzeit stehen 16.000 Aufnahmen als frei zugänglich (free access) zur Verfügung. Die anderen sind mittels Zugangscode (access code) abrufbar. Um diesen zu erhalten, schreiben Sie bitte an crem.lesc (at) cnrs.fr und begründen Sie ihre Anfrage. Die Archivdatenbank ist auch auf den Computern des CREM einsehbar, sowie auf den Seiten der `Bibliothèque Eric de Dampierre <http://www.mae.u-paris10.fr/bibethno/>`_, der `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ und der `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_.
 
-Die Verwaltung der Plattform wird durch das `CREM <http://www.crem-cnrs.fr>`_ sichergestellt. Das Internetangebot ist offen für jede Zusammenarbeit, die zum Ziel hat, dieses wertvolle, gemeinsame Erbe der Menschheit zu bereichern und zu würdigen. Derzeit sind 1'000 Stunden online zugänglich. Sie stehen zudem zur Verfügung `vor Ort im CREM (Universität Paris Ouest - Naterre La Défense, Gebäude C, Erdgeschoss, Zimmer 20) <http://goo.gl/maps/ZgHg>`_, sowie in der Zentralbibliothek des Nationalen Naturhistorischen Museums und in der Bibliothek François Mitterand (Gartengeschoss).
+|
+
+Aufbau des Katalogs
+-------------------
+
+Die Datenbank ist in 4 hierarchischen Beschreibungsebenen organisiert: Archives Series (Fonds) > Corpus > Sammlungen > Elemente. Die Hauptebene ist ’Sammlungen’. Jede Ebene umfasst ein entsprechendes Ensemble von Klangelementen, die entweder während einer Feldforschung aufgenommen wurden oder publizierte Aufnahmen sind. Einige Sammlungen sind unter „Korpus“ zusammengeführt und einige Archivgruppen (Fonds) sind mit ihren Sammlern verbunden.
+
+Die Anzahl der zugänglichen Aufnahmen steigt beständig. Die User der Plattform werden gebeten einige Angabe über die Art ihrer Tätigkeit anzugeben (Forscherin und Forscher, Studierende, Archivmitarbeiterin und Archivmitarbeiter).
+
+CREM begrüsst jedwede Form der Zusammenarbeit mit dem Ziel des Ausbaus und der Vervollkommnung dieses wertvollen musikalischen Erbes. Sie können uns  unter crem.lesc (at) cnrs.fr kontaktieren.
+
+|
+
+
+
+
+
+ 
 
