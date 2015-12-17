@@ -12,12 +12,12 @@ Mentions Légales
 **Directeur de publication :**
 
  | Victor A. Stoichiţă (directeur du CREM)
- | e-mail : crem.lesc (at) mae.u-paris10.fr
+ | e-mail : crem.lesc (at) cnrs.fr
 
 **Chef de projet et conception :**
 
  | Joséphine Simonnot (CREM)
- | e-mail : josephine.simonnot (at) mae.u-paris10.fr
+ | e-mail : josephine.simonnot (at) cnrs.fr
  
 **Responsable des archives du CREM :**
 
