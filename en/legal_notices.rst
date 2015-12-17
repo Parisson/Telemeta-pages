@@ -11,13 +11,13 @@ Legal Notices
 
 **Managing editor:**
 
- | Jean Lambert (director du CREM)
- | e-mail : lambert (at) mnhn.fr
+ | Victor A. Stoichiță (director du CREM)
+ | e-mail : crem.lesc (at) cnrs.fr
 
 **Design and project manager:**
 
  | Joséphine Simonnot (CREM)
- | e-mail : josephine.simonnot (at) mae.u-paris10.fr
+ | e-mail : josephine.simonnot (at) cnrs.fr
  
 **Head of archives at CREM :**
 
