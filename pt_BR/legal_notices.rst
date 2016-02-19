@@ -12,12 +12,12 @@ Legal Notices
 **Managing editor:**
 
  | Victor A. Stoichiţă (director du CREM)
- | e-mail : crem.lesc (at) mae.u-paris10.fr
+ | e-mail : crem.lesc (at) cnrs.fr
 
 **Design and project manager:**
 
  | Joséphine Simonnot (CREM)
- | e-mail : josephine.simonnot (at) mae.u-paris10.fr
+ | e-mail : josephine.simonnot (at) cnrs.fr
  
 **Head of archives at CREM :**
 
@@ -34,7 +34,7 @@ Legal Notices
  | © CNRS
  | Responsable de GeoEthno: Isabelle Donze
  | Laboratoire d'ethnologie et de sociologie comparative
- | Bibliothèque Eric-de-Dampierre (Responsable : Marie-Dominique Mouton)
+ | Bibliothèque Eric-de-Dampierre (Responsable : Frédéric Dubois)
  | Maison de l'Archéologie et de l'Ethnologie
  | Université de Paris Ouest La Défense - 92023 Nanterre cedex - France
  | Contact : bibethno@mae.u-paris10.fr 
