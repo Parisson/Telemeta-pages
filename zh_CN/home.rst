@@ -1,21 +1,135 @@
-==============================================
-Sound archives of the CNRS - Musée de l'Homme
-==============================================
-
-The establishment of the `CREM <http://www.crem-cnrs.fr>`_’s audio archives is the result of a long history of scientific research on music. Since the birth of ethnomusicology (then "comparative musicology"), which coincided with the invention of the first recorders in the late nineteenth century, recording music materials and their classification and preservation are central in our knowledge of the musical Man.
-
-.. image:: home_img.jpg
-    :align: left
-
-With the foundation of the Sound Archive at the Musée d’Ethnographie du Trocadéro by André Schaeffner in 1932 (which became the Sound Archive of the Musée de l’Homme in 1937) and the creation in 1967 of "Laboratoire d’Analyse sonore" on Gilbert Rouget initiative and the creation of a research team from the `CNRS <http://www.cnrs.fr/>`_ (Scientific Research National Center in France) in 1968, both at the `Musée de l’Homme <http://www.museedelhomme.fr/>`_, the conservation of this vast archives collection was more closely related to research : it is powered by the fieldworks of researchers on all continents; collections can serve for research, diachronic and synchronic comparisons, the preparation of new fieldworks and the training of Ph.D students. In 1985, the `CNRS <http://www.cnrs.fr/>`_ and the `Musée National d'Histoire Naturelle <http://www.mnhn.fr/>`_ (National Museum of Natural History) decided to join efforts to preserve this vast archives, therefore called "Sound Archives of CNRS - Musée de l'Homme". A small portion of these archives has been published in 78s (Vox Africa, etc ...), 33 rpm discs and CD (Chant du Monde, Harmonia Mundi). Currently, analogic media are being digitalized with the assistance of the Ministry of Culture and National Library of France. With the installation of the `Center for Research in Ethnomusicology <http://www.crem-cnrs.fr>`_ (CREM, Department of Ethnology and Comparative Sociology, CNRS UMR 7186) at the University of Paris Ouest-Nanterre in 2009, and the opening of the `Telemeta <http://telemeta.org>`_ platform in 2010, this collection sound archives from the era of the Internet.
-
-The archives of CREM, the most important in Europe, are distinguished by their wealth:
-
- * Nearly 3,500 hours of recordings of unpublished field.
- * Approximately 3700 hours of material published (more than 5000 discs, many of which are very rare).
-
-The collaborative platform `Telemeta <http://telemeta.org>`_ aims to make these archives available to researchers and to the extent possible, the public, in compliance with the intellectual and moral rights of musicians and collectors. Developed with the support of the program `TGE-Adonis <http://www.tge-adonis.fr/>`_ of the `CNRS <http://www.cnrs.fr/>`_, allows researchers to exchange data online with communities producing their music in their home countries, including through collaborative tools like markers , spaces, comments, etc...
-
-This site is managed by the `CREM <http://www.crem-cnrs.fr>`_. All collaborations are welcome to enrich and enhance this precious musical heritage common to all humanity. Currently, a thousand hours is searchable by code or `access on site and CREM (Université Paris Ouest - Nanterre - La Défense, Building C, Ground Floor, Room 20) <http://goo.gl/maps/ZgHg>`_, and the Central Library Muséum National d'Histoire Naturelle, and the Bibliothèque François Mitterand (garden).
+============================================================
+Telemeta : collaborative multimedia asset management system
+============================================================
 
 |
+
+|version| |downloads| |travis_master| |coverage_master|
+
+Overview
+=========
+
+Telemeta is a free and open source collaborative multimedia asset management system (MAM) which introduces fast and secure methods to archive, backup, transcode, analyse,  annotate and publish any digitalized video or audio file with extensive metadata. It is dedicated to collaborative media archiving projects, research laboratories and digital humanities - especially in ethno-musicological use cases - who need to easily organize and publish documented sound collections of audio files, CDs, digitalized vinyls and magnetic tapes over a strong database, through a smart and secure platform, in accordance with open web standards.
+
+*Telemeta* stands for *Tele* for "remote access" and *meta* for "metadata".
+
+
+Key features
+============
+
+* Secure archiving, editing and publishing of audio files over internet.
+* Pure HTML web user interface including dynamical forms and smart workflows
+* "On the fly" audio analyzing and transcoding thanks to TimeSide_
+* Smart dynamical and skinnable audio player with annotations
+* Collaborative indexing with semantic ontologies and timecoded markers
+* Multi-format support : FLAC, OGG, MP3, WAV, MP4, WebM (video) and more
+* User management with individual desk, lists, profiles and rights
+* Playlist management for all users with CSV data export
+* Geo-Navigator for audio geolocalization
+* High level search engine
+* DublinCore compatibility
+* OAI-PMH data provider
+* RSS feed generators
+* XML and ZIP serialized backups
+* EPUB3 "audio book" collection exporter
+* SQLite, MySQL, PostgreSQL or Oracle DB backends
+* Multi-language support (now english and french)
+* Run on any OS
+
+Telemeta has been developed since 2006 and is based exclusively on **100% open source and libre** modules. It is mostly written in Python, HTML5 and JavaScript.
+
+
+Funding and support
+===================
+
+To fund this long time libre and open source project, we need your explicit support. So if you use Telemeta in production or even in a development or experimental setup, please let us know by:
+
+* staring or forking the project on GitHub_
+* tweeting something to `@parisson_studio <https://twitter.com/parisson_studio>`_ or `@telemeta <https://twitter.com/telemeta>`_
+* drop us an email <support@parisson.com>
+
+Thank you so much for your help!
+
+API / Documentation
+====================
+
+* Official website: http://telemeta.org
+* Publications : https://github.com/Parisson/Telemeta-doc
+* API : http://files.parisson.com/doc/telemeta/
+* Player : https://github.com/Parisson/TimeSide/
+* Example : http://archives.crem-cnrs.fr/archives/items/CNRSMH_E_2004_017_001_01/
+
+
+Bugs, issues, ideas
+===================
+
+If you find some bugs or have good ideas for enhancement, please `leave a issue on GitHub <https://github.com/Parisson/Telemeta/issues/new>`_ with the right label or tweet it `@telemeta <https://twitter.com/telemeta>`_.
+
+And remember: even if Telemeta suits you, please give us some feedback. We **need** your support!
+
+
+License
+=======
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+
+.. |version| image:: https://img.shields.io/pypi/v/telemeta.svg
+   :target: https://pypi.python.org/pypi/Telemeta/
+   :alt: Version
+
+.. |downloads| image:: https://img.shields.io/pypi/dm/telemeta.svg
+   :target: https://pypi.python.org/pypi/Telemeta/
+   :alt: Downloads
+
+.. |travis_master| image:: https://secure.travis-ci.org/Parisson/Telemeta.png?branch=master
+   :target: https://travis-ci.org/Parisson/Telemeta/
+   :alt: Travis
+
+.. |coverage_master| image:: https://coveralls.io/repos/Parisson/Telemeta/badge.png?branch=master
+   :target: https://coveralls.io/r/Parisson/Telemeta?branch=master
+   :alt: Coverage
+
+
+.. _Telemeta: http://telemeta.org
+.. _TimeSide: https://github.com/Parisson/TimeSide/
+.. _OAI-PMH: http://fr.wikipedia.org/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting
+.. _Parisson: http://parisson.com
+.. _CNRS: http://www.cnrs.fr
+.. _MCC: http://www.culturecommunication.gouv.fr
+.. _CREM: http://www.crem-cnrs.fr
+.. _HumaNum: http://www.huma-num.fr
+.. _IRIT: http://www.irit.fr
+.. _LIMSI: http://www.limsi.fr/index.en.html
+.. _LAM: http://www.lam.jussieu.fr
+.. _LABRI: http://www.labri.fr
+.. _MNHN: http://www.mnhn.fr
+.. _MMSH: http://www.mmsh.univ-aix.fr
+.. _UPMC: http://www.upmc.fr
+.. _DIADEMS: http://www.irit.fr/recherches/SAMOVA/DIADEMS/fr/welcome/&cultureKey=en
+.. _ANR: http://www.agence-nationale-recherche.fr/
+.. _SABIOD: http://sabiod.telemeta.org
+.. _CHANGELOG: http://github.com/Parisson/Telemeta/blob/master/CHANGELOG.rst
+.. _Publications: https://github.com/Parisson/Telemeta-doc
+.. _API : http://files.parisson.com/doc/telemeta/
+.. _Player : https://github.com/Parisson/TimeSide/
+.. _Example : http://archives.crem-cnrs.fr/archives/items/CNRSMH_E_2004_017_001_01/
+.. _Homepage: http://telemeta.org
+.. _GitHub: https://github.com/Parisson/Telemeta/
+.. _IJLRDA: http://www.dalembert.upmc.fr/ijlrda/
+.. _Labex-Passé_Présent: http://passes-present.eu/
+.. _U-Paris10: http://www.u-paris10.fr/
+.. _MdH: http://www.museedelhomme.fr/
+.. _IRCAM: http://www.ircam.fr
+.. _TimeSide-DIADEMS: https://github.com/ANR-DIADEMS/timeside-diadems
+.. _DaCaRyH:  http://archives.crem-cnrs.fr/archives/fonds/CNRSMH_DACARYH/
+.. _Kamoulox: http://www.agence-nationale-recherche.fr/?Projet=ANR-15-CE38-0003
+.. _AHRC: http://www.ahrc.ac.uk/
+.. _Queen Mary University: http://www.qmul.ac.uk/
+.. _SoundSoftware : http://soundsoftware.ac.uk/
+.. _C4DM: http://c4dm.eecs.qmul.ac.uk/
+.. _CMAM: http://www.cmam.nat.tn/
