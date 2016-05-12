@@ -4,7 +4,7 @@ Archives sonores du CNRS - Musée de l'Homme
 	
 |
 
-Le fonds d’archives sonores du CNRS – Musée de l’Homme rassemble des enregistrements, inédits ou publiés, de musique de tradition orale et d'enquêtes ethnographiques du monde entier, de 1900 à nos jours. Constitué de supports variés (bandes magnétiques, cylindres, 78 tours, disques vinyles, bandes magnétiques, cassettes, CDs audios, supports numériques), ce fonds se positionne parmi les plus importants d’Europe en terme de qualité, de quantité et de diversité.
+Le fonds d’archives sonores du CNRS – Musée de l’Homme rassemble des enregistrements, inédits ou publiés, de musique de tradition orale et d'enquêtes ethnographiques du monde entier, de 1900 à nos jours. Constitué de supports variés (cylindres, 78 tours, disques vinyles, bandes magnétiques, cassettes, CDs audios, DVD, supports numériques), ce fonds se positionne parmi les plus importants d’Europe en terme de qualité, de quantité et de diversité.
 
 Pour une présentation historique du fonds, voir `le site du CREM <http://crem-cnrs.fr/archives-sonores>`_. 
 
@@ -34,7 +34,7 @@ Actuellement, plus de 16 600 enregistrements sont en libre accès. D'autres sont
 Organisation du catalogue
 -------------------------
 
-Le catalogue est organisé en 4 niveaux : Fonds, Corpus, Collection et Items. Le niveau principal de description est la Collection. Chaque collection regroupe un ensemble cohérent de fichiers audio (items) correspondant le plus souvent à des enregistrements collectés au cours d’une même mission de recherche ou à un enregistrement publié. Certaines collections sont elles-mêmes regroupées en corpus et en fonds, associés à des collecteurs. 
+Le catalogue est organisé en 4 niveaux : Fonds, Corpus, Collection et Items. Le niveau principal de description est la Collection. Chaque collection regroupe un ensemble cohérent de fichiers audio (items) correspondant le plus souvent à des enregistrements collectés au cours d’une même mission de recherche ou à un enregistrement publié. Certaines collections sont elles-mêmes regroupées en corpus et en fonds, associés à des collecteurs ou certaines thématiques. 
 
 Le nombre d’enregistrements mis en ligne sur la plateforme est en constante augmentation. Ils sont signalés par un haut-parleur. Les fiches descriptives sont renseignées de manière collaborative par les usagers de la plateforme : chercheurs, étudiants, documentalistes. 
 
