@@ -4,26 +4,33 @@ Mentions Légales
 
 **Editeur du site :**
 
- | Centre de Recherche en Ethnomusicologie (CREM - LESC UMR 7186 CNRS) 
- | MAE - 21, allée de l'Université
- | 92023 Nanterre cedex
- | France
+ | Centre des Musiques Arabes et Méditerranéennes (CMAM) 
+ | 8, rue du 2 mars 1934
+ | 2026 Sidi Bou Saïd
+ | Tunisie
 
-**Directeur de publication :**
+**Coordination générale / responsabilité scientifique :**
 
- | Jean Lambert (directeur du CREM)
- | e-mail : lambert (at) mnhn.fr
+ | Anas Ghrab
+ | e-mail : anas.ghrab (at) cmam.tn
 
-**Chef de projet et conception :**
+**Documentation :**
 
- | Joséphine Simonnot (CREM)
- | e-mail : josephine.simonnot (at) mae.u-paris10.fr
+ | Manoubia Hermi
+ | e-mail : manoubia.hermi (at) cmam.tn
  
-**Responsable des archives du CREM :**
+**Équipe technique :**
 
- | Aude Da Cruz-Lima (CREM)
- | e-mail : aude.da-cruz-lima (at) mae.u-paris10.fr
- 
+ | Mahmoud Rezgui
+ | Besma Ajili
+ | Hamdi Dridi
+
+**Chef de projet et conception au CREM :**
+
+    Joséphine Simonnot (CREM)
+    e-mail : josephine.simonnot (at) mae.u-paris10.fr
+
+
 **Chef du développement et conception:**
 
  | Guillaume Pellerin (`Parisson <http://parisson.com>`_)
@@ -41,6 +48,7 @@ Mentions Légales
 
 | **COPIE DES ARCHIVES SONORES INTERDITE SI PAS EXPLICITEMENT AUTORISÉ**
 | **UTILISATION COMMERCIALE DES ARCHIVES SONORES INTERDITE SI PAS EXPLICITEMENT AUTORISÉ**
+
 
 
 

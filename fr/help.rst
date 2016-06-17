@@ -1,22 +1,18 @@
-========================
-Pages d'aide de Telemeta
-========================
+=======================================
+Pages d'aide de Phonotheque.cmam.tn
+=======================================
 
-Pour obtenir un accès spécifique à l'ensemble des archives du CREM hébergé sur ce site, merci de contacter :
+Pour obtenir un accès spécifique à l'ensemble des archives du CMAM hébergé sur ce site, merci de contacter :
 
-    Aude Julien <aude.da-cruz-lima (at) mae.u-paris10.fr>
+    Anas Ghrab | أنس غراب <anas.ghrab (at) cmam.tn>
 
 Pour obtenir une aide technique, merci de vous inscrire à la mailing liste de Telemeta :
 
     `http://lists.parisson.com/cgi-bin/mailman/listinfo/telemeta <http://lists.parisson.com/cgi-bin/mailman/listinfo/telemeta>`_
 
-ou bien contacter la hotline parisson par e-mail :
+ou bien contacter le CMAM  par e-mail :
 
-    support@parisson.com
-
-ou twitter :
-
-    `http://twitter.com/telemeta <http://twitter.com/telemeta>`_
+    info (at) cmam.tn
 
 Pour plus d'informations sur le système Telemeta, voir `telemeta.org <http://telemeta.org>`_
 

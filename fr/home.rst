@@ -1,135 +1,70 @@
-============================================================
-Telemeta : collaborative multimedia asset management system
-============================================================
+=================================================
+La Phonothèque Nationale, un espace de la mémoire
+=================================================
 
 |
 
-|version| |downloads| |travis_master| |coverage_master|
-
-Overview
-=========
-
-Telemeta is a free and open source collaborative multimedia asset management system (MAM) which introduces fast and secure methods to archive, backup, transcode, analyse,  annotate and publish any digitalized video or audio file with extensive metadata. It is dedicated to collaborative media archiving projects, research laboratories and digital humanities - especially in ethno-musicological use cases - who need to easily organize and publish documented sound collections of audio files, CDs, digitalized vinyls and magnetic tapes over a strong database, through a smart and secure platform, in accordance with open web standards.
-
-*Telemeta* stands for *Tele* for "remote access" and *meta* for "metadata".
+.. image:: telemeta_en_thumb.png
+   :align: left
 
 
-Key features
-============
+L’élégante maison dite *al-Qubba al-Bīḍāʾ*, fait office de tour d’angle pour le palais du baron Rodolphe d’Erlanger. Cette dépendance du palais Ennejma Ezzahra abrite depuis 1994 les services de la Phonothèque Nationale, l'un des départements du Centre des Musiques Arabes et Méditerranéennes. À l’instar du musée, de l’exposition permanente d’instruments de musique ou de l’atelier de lutherie, cet espace est dédié à la musique et accueille musiciens, mélomanes et chercheurs.
 
-* Secure archiving, editing and publishing of audio files over internet.
-* Pure HTML web user interface including dynamical forms and smart workflows
-* "On the fly" audio analyzing and transcoding thanks to TimeSide_
-* Smart dynamical and skinnable audio player with annotations
-* Collaborative indexing with semantic ontologies and timecoded markers
-* Multi-format support : FLAC, OGG, MP3, WAV, MP4, WebM (video) and more
-* User management with individual desk, lists, profiles and rights
-* Playlist management for all users with CSV data export
-* Geo-Navigator for audio geolocalization
-* High level search engine
-* DublinCore compatibility
-* OAI-PMH data provider
-* RSS feed generators
-* XML and ZIP serialized backups
-* EPUB3 "audio book" collection exporter
-* SQLite, MySQL, PostgreSQL or Oracle DB backends
-* Multi-language support (now english and french)
-* Run on any OS
+La Phonothèque Nationale apporte au CMAM une dimension essentielle qui consiste en la sauvegarde du patrimoine phonographique. En effet, ce département assure diverses missions visant à la préservation de ce patrimoine : collecte, traitement et restauration des phonogrammes et surtout sauvegarde et conservation par le moyen du dépôt légal phonographique. 
 
-Telemeta has been developed since 2006 and is based exclusively on **100% open source and libre** modules. It is mostly written in Python, HTML5 and JavaScript.
+Avec la Phonothèque Nationale, cet espace de la mémoire, le Centre des Musiques Arabes et Méditerranéennes réalise l’un de ses objectifs fondamentaux et agit comme une institution polyvalente œuvrant, dans une optique pluridisciplinaire, pour la promotion de la musique. 
 
+Missions
+========
 
-Funding and support
-===================
+La Phonothèque Nationale a pour mission de collecter, traiter, conserver, restaurer, valoriser et diffuser l’ensemble du patrimoine phonographique tunisien.
+La collecte est réalisée à travers divers moyens : le dépôt légal, la collecte sur terrain, le transfert de fonds externes et l’échange
 
-To fund this long time libre and open source project, we need your explicit support. So if you use Telemeta in production or even in a development or experimental setup, please let us know by:
+Le dépôt légal
+==============
 
-* staring or forking the project on GitHub_
-* tweeting something to `@parisson_studio <https://twitter.com/parisson_studio>`_ or `@telemeta <https://twitter.com/telemeta>`_
-* drop us an email <support@parisson.com>
+C'est le moyen et l’instrument le plus important de l’opération de collecte. Le dépôt légal rend effectives la conservation et la sauvegarde de la mémoire phonographique  du futur. En effet, la loi sur le dépôt légal actualisée prévoit le dépôt d’un exemplaire de chaque production phonographique mise à la disposition du public.
+Pour que le dépôt légal remplisse sa mission et soit une mémoire de l’édition phonographique, encore faut-il qu’il soit l’observatoire immédiat de cette édition, captant le patrimoine à sa création, sans exclusive de genres, de supports ou de fonctions.
 
-Thank you so much for your help!
+La collecte sur terrain 
+=======================
 
-API / Documentation
-====================
+Une unité de la Phonothèque Nationale est chargée d’encadrer techniquement et scientifiquement des projets de recherche et des opérations de collecte sur le terrain. Un quadrillage du pays permet de dégager les priorités et les urgences. L’objectif à atteindre est de faire un travail exhaustif qui aboutisse à la constitution d’un fonds d’enregistrements et de publications annexes.
+La Phonothèque Nationale veille aussi à récupérer, dans la mesure du possible, les fonds phonographiques détenus par des institutions nationales (Etablissement de la Radio Télévision Tunisienne)ou étrangères de conservation phonographique. La même démarche est poursuivie auprès des collectionneurs privés.
+L’échange de documents originaux ou de simples copies comble les lacunes éventuelles de nos collections phonographiques. La politique d’échanges complète ainsi la panoplie des instruments et des moyens alimentant le fonds phonographique encyclopédique de la Phonothèque Nationale Tunisienne.
 
-* Official website: http://telemeta.org
-* Publications : https://github.com/Parisson/Telemeta-doc
-* API : http://files.parisson.com/doc/telemeta/
-* Player : https://github.com/Parisson/TimeSide/
-* Example : http://archives.crem-cnrs.fr/archives/items/CNRSMH_E_2004_017_001_01/
+Le traitement
+================
 
+Le fonds phonographique collecté subit un traitement catalographique normalisé. Une indexation scientifique aménage des accès multiples à chaque document. Entièrement informatisées, les opérations de catalogage, d’indexation et de recherche allient l’efficacité à la rapidité. Grâce à la base de données de la Phonothèque Nationale, un instantané précis du patrimoine phonographique tunisien peut être réalisé.
 
-Bugs, issues, ideas
-===================
+La conservation
+================
 
-If you find some bugs or have good ideas for enhancement, please `leave a issue on GitHub <https://github.com/Parisson/Telemeta/issues/new>`_ with the right label or tweet it `@telemeta <https://twitter.com/telemeta>`_.
+Les documents phonographiques collectés sont conservés dans des conditions climatiques et de sécurité optimales. Il est prévu pour la conservation à long terme une politique caractérisée par une double sauvegarde sur un support analogique traditionnel et un support numérique, ce dernier servant essentiellement comme support de consultation.
 
-And remember: even if Telemeta suits you, please give us some feedback. We **need** your support!
+La restauration
+================
 
+L'atelier de restauration de la Phonothèque Nationale dispose des techniques les plus récentes (notamment dans le domaine du son numérique) pour restaurer les documents phonographiques détériorés et pour intervenir avec une grande précision sur les documents dégradés. Leur double transfert sur un support analogique et digitalisé les met à l’abri des aléas du temps et facilite leur consultation, édition ou réédition.
 
-License
-=======
+La valorisation et la diffusion
+===============================
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Récupérer et conserver les documents phonographiques tunisiens ne doit pas être une fin en soi. La Phonothèque Nationale Tunisienne veille au respect des droits d’auteurs afférents à la propriété littéraire et artistique et à la reproduction mécanique des documents phonographiques, mais elle veille également, dans le respect des droits des auteurs, à faire revivre ce patrimoine. Cette nouvelle valorisation est effectuée par l’édition phonographique sur des supports fiables et  aussi par le biais de la consultation des documents phonographiques sur place ainsi qu'un programme de publication.
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.
+La salle de consultation
+========================
 
-You should have received a copy of the GNU Affero General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
+Les cabines d’écoute de la salle de consultation de la Phonothèque Nationale Tunisienne rendent aisé le travail de recherche et d’étude des musicologues et autres historiens de la musique. Assistés par des documentalistes spécialisés et l’outil informatique, les chercheurs peuvent redécouvrir, revisiter et revaloriser le patrimoine musical tunisien.
 
+L'édition et la réédition phonographique                                                                                                                                                 
+========================================
 
-.. |version| image:: https://img.shields.io/pypi/v/telemeta.svg
-   :target: https://pypi.python.org/pypi/Telemeta/
-   :alt: Version
+L'édition et la réédition du patrimoine phonographique tunisien sur des supports modernes figurent parmi les missions essentielles de la Phonothèque Nationale Tunisienne. Cependant, il faudrait préciser que la vocation de cette institution nationale n’est pas commerciale. Ces missions sont uniquement et exclusivement à vocation académique et scientifique.
 
-.. |downloads| image:: https://img.shields.io/pypi/dm/telemeta.svg
-   :target: https://pypi.python.org/pypi/Telemeta/
-   :alt: Downloads
+Les publications
+================
 
-.. |travis_master| image:: https://secure.travis-ci.org/Parisson/Telemeta.png?branch=master
-   :target: https://travis-ci.org/Parisson/Telemeta/
-   :alt: Travis
+La mise en valeur du patrimoine phonographique tunisien n’est pas limitée à l’édition et à la réédition phonographique. En effet,des publications parallèles d'une grande diversité ( phonographies nationales, discographies, anthologies ) complètent ce travail, en le plaçant dans son cadre historique et en dégageant sa véritable portée ainsi que sa dimension patrimoniale.
 
-.. |coverage_master| image:: https://coveralls.io/repos/Parisson/Telemeta/badge.png?branch=master
-   :target: https://coveralls.io/r/Parisson/Telemeta?branch=master
-   :alt: Coverage
-
-
-.. _Telemeta: http://telemeta.org
-.. _TimeSide: https://github.com/Parisson/TimeSide/
-.. _OAI-PMH: http://fr.wikipedia.org/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting
-.. _Parisson: http://parisson.com
-.. _CNRS: http://www.cnrs.fr
-.. _MCC: http://www.culturecommunication.gouv.fr
-.. _CREM: http://www.crem-cnrs.fr
-.. _HumaNum: http://www.huma-num.fr
-.. _IRIT: http://www.irit.fr
-.. _LIMSI: http://www.limsi.fr/index.en.html
-.. _LAM: http://www.lam.jussieu.fr
-.. _LABRI: http://www.labri.fr
-.. _MNHN: http://www.mnhn.fr
-.. _MMSH: http://www.mmsh.univ-aix.fr
-.. _UPMC: http://www.upmc.fr
-.. _DIADEMS: http://www.irit.fr/recherches/SAMOVA/DIADEMS/fr/welcome/&cultureKey=en
-.. _ANR: http://www.agence-nationale-recherche.fr/
-.. _SABIOD: http://sabiod.telemeta.org
-.. _CHANGELOG: http://github.com/Parisson/Telemeta/blob/master/CHANGELOG.rst
-.. _Publications: https://github.com/Parisson/Telemeta-doc
-.. _API : http://files.parisson.com/doc/telemeta/
-.. _Player : https://github.com/Parisson/TimeSide/
-.. _Example : http://archives.crem-cnrs.fr/archives/items/CNRSMH_E_2004_017_001_01/
-.. _Homepage: http://telemeta.org
-.. _GitHub: https://github.com/Parisson/Telemeta/
-.. _IJLRDA: http://www.dalembert.upmc.fr/ijlrda/
-.. _Labex-Passé_Présent: http://passes-present.eu/
-.. _U-Paris10: http://www.u-paris10.fr/
-.. _MdH: http://www.museedelhomme.fr/
-.. _IRCAM: http://www.ircam.fr
-.. _TimeSide-DIADEMS: https://github.com/ANR-DIADEMS/timeside-diadems
-.. _DaCaRyH:  http://archives.crem-cnrs.fr/archives/fonds/CNRSMH_DACARYH/
-.. _Kamoulox: http://www.agence-nationale-recherche.fr/?Projet=ANR-15-CE38-0003
-.. _AHRC: http://www.ahrc.ac.uk/
-.. _Queen Mary University: http://www.qmul.ac.uk/
-.. _SoundSoftware : http://soundsoftware.ac.uk/
-.. _C4DM: http://c4dm.eecs.qmul.ac.uk/
-.. _CMAM: http://www.cmam.nat.tn/
