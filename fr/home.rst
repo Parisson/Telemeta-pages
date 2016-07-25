@@ -23,11 +23,11 @@ Contenu
 	
 Géré par le `Centre de Recherche en Ethnomusicologie (CREM) <http://crem-cnrs.fr>`_ cette base de données répertorie :
 
-|  ✔ Plus de 36 000 documents sonores inédits, dont 14 000 sont numérisés, représentant près de 4 000 heures d'enregistrements de terrain non publiés.
-|  ✔ Plus de 13 000 enregistrements sonores édités, dont 3 600 numérisés, dans plus de 4 600 collections, pour environ 3 700 heures (plus de 5 000 disques dont beaucoup sont très rares).
+|  ✔ Plus de 42 000 documents sonores inédits, dont 32 000 sont numérisés, représentant près de 4 000 heures d'enregistrements de terrain non publiés.
+|  ✔ Plus de 13 000 enregistrements sonores édités, dont 4 600 numérisés, dans plus de 5 000 collections, pour environ 4 000 heures (plus de 5 000 disques dont beaucoup sont très rares).
 |  ✔ 199 pays sont représentés à travers plus de 1 200 groupes ethniques ou sociaux, donnant à entendre une large palette de pratiques musicales (instrumentales et vocales), de langues et de dialectes.
 
-Actuellement, plus de 16 600 enregistrements sont en libre accès. D'autres sont consultables avec un code d'accès. Pour l'obtenir écrivez à crem.lesc (at) cnrs.fr en expliquant les motifs de votre demande. Le fonds d'archives est également consultable sur les postes dédiés disponibles au `CREM <http://crem-cnrs.fr/contacts>`_, à la `Bibliothèque Eric de Dampierre <http://www.mae.u-paris10.fr/bibethno/>`_, à la `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ et à la `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_. 
+Actuellement, plus de 21 000 enregistrements sont en libre accès. D'autres sont consultables avec un code d'accès. Pour l'obtenir écrivez à crem.lesc (at) cnrs.fr en expliquant les motifs de votre demande. Le fonds d'archives est également consultable sur les postes dédiés disponibles au `CREM <http://crem-cnrs.fr/contacts>`_, à la `Bibliothèque Eric de Dampierre <http://www.mae.u-paris10.fr/bibethno/>`_, à la `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ et à la `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_. 
 
 |
 
