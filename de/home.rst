@@ -22,11 +22,11 @@ Inhalte
 
 Das Archiv ist Teil des Center for Research in Ethnomusicology (CREM) und umfasst:
 
-|  ✔  Über 36.000 unveröffentlichte Klangdokumente, von denen 14.000 verteilt für den Hörer zugänglich sind, was 4.000 Aufnahmestunden dieser unveröffentlichten Feldaufnahmen entspricht.
-|  ✔ Über 13.000 veröffentlichtes Material, wovon 3.600 in mehr als 4.600 Sammlungen mit mehr als 3.700 Stunden gehört werden können (darunter befinden sich 5.000 Schallplatten, wovon einige sehr selten sind)
+|  ✔  Über 42.000 unveröffentlichte Klangdokumente, von denen 32.000 verteilt für den Hörer zugänglich sind, was 4.000 Aufnahmestunden dieser unveröffentlichten Feldaufnahmen entspricht.
+|  ✔ Über 15.000 veröffentlichtes Material, wovon 4.600 in mehr als 5.000 Sammlungen mit mehr als 4.000 Stunden gehört werden können (darunter befinden sich 5.000 Schallplatten, wovon einige sehr selten sind)
 |  ✔ Klangaufnahmen aus 199 Länder und 1.200 ethnischen bzw. sozialen Gruppen, was einen Zugang zu einer hohen Bandbreite an musikalischen Praktiken, Sprachen, Gesängen und Dialekten bedeutet. 
 
-Derzeit stehen 16.600 Aufnahmen als frei zugänglich (free access) zur Verfügung. Die anderen sind mittels Zugangscode (access code) abrufbar. Um diesen zu erhalten, schreiben Sie bitte an crem.lesc (at) cnrs.fr und begründen Sie ihre Anfrage. Die Archivdatenbank ist auch auf den Computern des CREM einsehbar, sowie auf den Seiten der `Bibliothèque Eric de Dampierre <http://www.mae.u-paris10.fr/bibethno/>`_, der `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ und der `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_.
+Derzeit stehen 21.000 Aufnahmen als frei zugänglich (free access) zur Verfügung. Die anderen sind mittels Zugangscode (access code) abrufbar. Um diesen zu erhalten, schreiben Sie bitte an crem.lesc (at) cnrs.fr und begründen Sie ihre Anfrage. Die Archivdatenbank ist auch auf den Computern des CREM einsehbar, sowie auf den Seiten der `Bibliothèque Eric de Dampierre <http://www.mae.u-paris10.fr/bibethno/>`_, der `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ und der `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_.
 
 |
 
