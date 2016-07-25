@@ -5,11 +5,11 @@ Conteúdo
 
 Administrado pelo Centre de Recherche en Ethnomusicologie (CREM), este banco de dados é composto por:
 
-Mais de 36.000 documentos inéditos, dos quais 14.000 digitalizados, incluindo aproximadamente 4.000 gravações inéditas, realizadas em pesquisas de campo.
-Mais de 13.000 gravações editadas, das quais 3.600 digitalizadas, em mais de 4.600 coleções, perfazendo algo em torno de 3.700 horas (mais de 5.000 discos, muitos dos quais bastante raros).
+Mais de 42.000 documentos inéditos, dos quais 32.000 digitalizados, incluindo aproximadamente 4.000 gravações inéditas, realizadas em pesquisas de campo.
+Mais de 15.000 gravações editadas, das quais 4.600 digitalizadas, perfazendo algo em torno de 4.000 horas (mais de 5.000 discos, muitos dos quais bastante raros).
 199 países são representados por mais de 1200 grupos étnicos ou sociais, permitindo a escuta de um largo conjunto de expressões musicais, de línguas e de dialetos.
 O acervo apresenta 199 países e mais de 1.200 grupos étnicos ou sociais, permitindo a escuta de um amplo conjunto de expressões musicais, línguas e dialetos.
-Atualmente, mais de 16.600 gravações são de acesso livre. Outras podem ser consultadas através de senha de acesso. Para obtê-la, envie um email para crem.lesc@cnrs.fr, explicando os motivos da solicitação. O acervo também pode ser consultado in loco em diferentes pontos de Paris e região: no CREM e na Biblioteca Eric de Dampierre (Universidade Paris X, Nanterre), na Midiateca do Museu do Quai Branly e na Biblioteca do Museu Nacional de História Natural National.
+Atualmente, mais de 21.600 gravações são de acesso livre. Outras podem ser consultadas através de senha de acesso. Para obtê-la, envie um email para crem.lesc@cnrs.fr, explicando os motivos da solicitação. O acervo também pode ser consultado in loco em diferentes pontos de Paris e região: no CREM e na Biblioteca Eric de Dampierre (Universidade Paris X, Nanterre), na Midiateca do Museu do Quai Branly e na Biblioteca do Museu Nacional de História Natural National.
 
 Organização
 
