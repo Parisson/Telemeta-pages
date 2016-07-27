@@ -22,7 +22,7 @@ Contents
 Managed by the `Center for Research in Ethnomusicology (CREM) <http://crem-cnrs.fr>`_, these archives index:
 
 | ✔ Over 42,000 unpublished sound documents, among which 32.000 are available for listening, spread though more that 1,000 collections, representing about 4,000 hours of recordings of unpublished fieldworks.
-| ✔ Over 13,000 published materials, among which 4,600 are available for listening, in more than 4,600 collections, for about 3,700 hours (including more than 5,000 discs among which some are very rare)
+| ✔ Over 15,000 published materials, among which 4,600 are available for listening, in more than 4,600 collections, for about 3,700 hours (including more than 5,000 discs among which some are very rare)
 | ✔ 199 countries, and 1,200 ethnic and social groups are represented, making it possible to hear a wide array of musical and sung expressions, languages and dialects. 
 
 
