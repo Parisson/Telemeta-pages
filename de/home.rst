@@ -20,7 +20,7 @@ Die Display Optionen des Audio Players werden im Rahmen des DIADEMS Programms en
 Inhalte 
 -------
 
-Das Archiv ist Teil des Center for Research in Ethnomusicology (CREM) und umfasst:
+Das Archiv ist Teil des Centre de Recherche en Ethnomusicologie (CREM) und umfasst:
 
 |  ✔  Über 42.000 unveröffentlichte Klangdokumente, von denen 32.000 verteilt für den Hörer zugänglich sind, was 4.000 Aufnahmestunden dieser unveröffentlichten Feldaufnahmen entspricht.
 |  ✔ Über 15.000 veröffentlichtes Material, wovon 4.600 in mehr als 5.000 Sammlungen mit mehr als 4.000 Stunden gehört werden können (darunter befinden sich 5.000 Schallplatten, wovon einige sehr selten sind)
@@ -33,9 +33,9 @@ Derzeit stehen 21.000 Aufnahmen als frei zugänglich (free access) zur Verfügun
 Aufbau des Katalogs
 -------------------
 
-Die Datenbank ist in 4 hierarchischen Beschreibungsebenen organisiert: Archives Series (Fonds) > Corpus > Sammlungen > Elemente. Die Hauptebene ist ’Sammlungen’. Jede Sammlung umfasst ein entsprechendes Ensemble von Klangelementen, die entweder während einer Feldforschung aufgenommen wurden oder publizierte Aufnahmen sind. Einige Sammlungen sind unter „Korpus“ und Archivgruppen zusammengeführt und sind mit ihren Sammlern verbunden.
+Die Datenbank ist in 4 hierarchischen Beschreibungsebenen organisiert: Archiveseries (Fonds) > Korpus > Sammlungen > Elemente. Die Hauptebene ist ’Sammlungen’. Jede Sammlung umfasst ein entsprechendes Ensemble von Klangelementen, die entweder während einer Feldforschung aufgenommen wurden oder publizierte Aufnahmen sind. Einige Sammlungen sind unter „Korpus“ und Archivgruppen zusammengeführt und sind mit ihren Sammlern verbunden.
 
-Die Anzahl der zugänglichen Aufnahmen steigt beständig. Sie werden von einem Lautsprecher bezeichnet. Die User der Plattform werden gebeten einige Angabe über die Art ihrer Tätigkeit anzugeben (Forscherin und Forscher, Studierende, Archivmitarbeiterin und Archivmitarbeiter).
+Die Anzahl der zugänglichen Aufnahmen steigt beständig. Vorhandene Klangbeispiele sind mit einem Lautsprechersymbol versehen. Die User der Plattform werden gebeten einige Angaben über die Art ihrer Tätigkeit anzugeben (Forscherin und Forscher, Studierende, Archivmitarbeiterin und Archivmitarbeiter).
 
 CREM begrüsst jedwede Form der Zusammenarbeit mit dem Ziel des Ausbaus und der Vervollkommnung dieses wertvollen musikalischen Erbes. Sie können uns  unter crem.lesc (at) cnrs.fr kontaktieren.
 (Übersetzung : Matthias Lewy)
