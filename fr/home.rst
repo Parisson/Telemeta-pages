@@ -1,46 +1,65 @@
-============================================
-Archives sonores du CNRS - Musée de l'Homme
-============================================	
-	
-|
+==============
+Projet DACARYH
+==============
+
+Étude analytique du rythme calypso à travers l'histoire
+=======================================================
+
+Le projet DaCaRyH est un projet franco-britannique développé grâce au partenariat entre le labex `Les passés dans le présent <http://passes-present.eu/>`_ en France et le programme `Care for the Future, du Arts & Humanities Research Council <http://careforthefuture.exeter.ac.uk/>`_ au Royaume-Uni.
+
+Portant sur la tradition musicale du calypso de Trinidad, reposant sur une collaboration entre ethnomusicologues et archivistes français, scientifiques du traitement de données et compositeurs britanniques, le projet se propose d’enrichir la discipline de l’ethnomusicologie en intégrant l’informatique et la recherche d’informations dans la musique (MIR) pour les archives sonores et les pratiques de recherche. Il vise également à enrichir les sciences de l’information et des MIR en intégrant des exemples ethnomusicologiques dans les recherches et le développement de systèmes intelligents. Il se propose enfin d’étudier à partir des « Big Data » culturelles, le concept de style musical à travers une analyse diachronique comparative d'un corpus de musique styles et d’analyser le patrimoine culturel à grande échelle.
+
+
+Responsables du projet
+~~~~~~~~~~~~~~~~~~~~~~
+
+- Aurélie HELMLINGER , Ethnomusicologue , Laboratoire d'Ethnologie et de Sociologie Comparative, UMR 7186 - CREM
+- Bob STURM , Lecturer in Digital Media , Queen Mary University of London
+
+Équipe
+~~~~~~
+-  Royaume-Uni
+  - Bob L. Sturm, PI (C4DM, QMUL)
+  - Elio Quinton (C4DM, QMUL)
+  - Oded Ben-Tal (Kingston University)
+
+- France
+  - Aurelie Helmlinger, PI (CREM-LESC, CNRS, Nanterre)
+  - Florabelle Spielmann (CREM-LESC, CNRS, Nanterre)
+  - Joséphine Simonnot (CREM-LESC, CNRS, Nanterre)
+  - Guillaume Pellerin (Parisson)
+  - Thomas Fillon (Parisson)
+
+  
+
+Partenaires associés
+~~~~~~~~~~~~~~~~~~~~
+- `Centre de Recherche en Ethnomusicologie (CREM) <http://crem-cnrs.fr/archives-sonores>`_. 
+- `Queen Mary University of London (QMUL) <http://www.qmul.ac.uk/>`_
+- `Parisson <http://www.parisson.com/>`_
 
 Le fonds d’archives sonores du CNRS – Musée de l’Homme rassemble des enregistrements, inédits ou publiés, de musique de tradition orale et d'enquêtes ethnographiques du monde entier, de 1900 à nos jours. Constitué de supports variés (cylindres, 78 tours, disques vinyles, bandes magnétiques, cassettes, CDs audios, DVD, supports numériques), ce fonds se positionne parmi les plus importants d’Europe en terme de qualité, de quantité et de diversité.
 
 Pour une présentation historique du fonds, voir `le site du CREM <http://crem-cnrs.fr/archives-sonores>`_. 
 
-Actualités
------------
 
-Les archives participent au projet de portail sonore européen (2014-2017) : `Europeana Sounds <http://www.europeanasounds.eu>`_. 
+.. figure:: ../images/quadrophonic_dr02_birdsong.png
+   :align: left
+        
+ Quadrophonic, dr02, Birdsong - © Aurélie Helmlinger 
 
-Les options d'affichage du lecteur audio sont en cours d'élaboration par l'ANR `DIADEMS <http://www.irit.fr/recherches/SAMOVA/DIADEMS/fr/welcome/>`_. Etant en phase expérimentale, ces outils ne sont pas encore tous opérationnels. Merci de votre compréhension. 
-
-Contenu
--------	
-
-.. image:: home_img.jpg
-   :align: left 
-	
-Géré par le `Centre de Recherche en Ethnomusicologie (CREM) <http://crem-cnrs.fr>`_ cette base de données répertorie :
-
-|  ✔ Plus de 36 000 documents sonores inédits, dont 14 000 sont numérisés, représentant près de 4 000 heures d'enregistrements de terrain non publiés.
-|  ✔ Plus de 13 000 enregistrements sonores édités, dont 3 600 numérisés, dans plus de 4 600 collections, pour environ 3 700 heures (plus de 5 000 disques dont beaucoup sont très rares).
-|  ✔ 199 pays sont représentés à travers plus de 1 200 groupes ethniques ou sociaux, donnant à entendre une large palette de pratiques musicales (instrumentales et vocales), de langues et de dialectes.
-
-Actuellement, plus de 16 600 enregistrements sont en libre accès. D'autres sont consultables avec un code d'accès. Pour l'obtenir écrivez à crem.lesc (at) cnrs.fr en expliquant les motifs de votre demande. Le fonds d'archives est également consultable sur les postes dédiés disponibles au `CREM <http://crem-cnrs.fr/contacts>`_, à la `Bibliothèque Eric de Dampierre <http://www.mae.u-paris10.fr/bibethno/>`_, à la `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ et à la `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_. 
-
-|
-
-Organisation du catalogue
--------------------------
-
-Le catalogue est organisé en 4 niveaux : Fonds, Corpus, Collection et Items. Le niveau principal de description est la Collection. Chaque collection regroupe un ensemble cohérent de fichiers audio (items) correspondant le plus souvent à des enregistrements collectés au cours d’une même mission de recherche ou à un enregistrement publié. Certaines collections sont elles-mêmes regroupées en corpus et en fonds, associés à des collecteurs ou certaines thématiques. 
-
-Le nombre d’enregistrements mis en ligne sur la plateforme est en constante augmentation. Ils sont signalés par un haut-parleur. Les fiches descriptives sont renseignées de manière collaborative par les usagers de la plateforme : chercheurs, étudiants, documentalistes. 
-
-Le CREM accueille toutes les collaborations visant à enrichir et valoriser ce précieux patrimoine. Ecrivez-nous à crem.lesc (at) cnrs.fr.
-
-|
+ 
+Description du projet
+~~~~~~~~~~~~~~~~~~~~~
+Le projet DaCaRyH (Etude analytique du rythme calypso à travers l'histoire) est une collaboration entre ethnomusicologues et archivistes français, scientifiques du traitement de données et compositeurs britanniques, avec 3 objectifs :
+- enrichir la discipline de l’ethnomusicologie en intégrant l’informatique et la recherche d’informations dans la musique (Music Information Retrieval - MIR) pour les archives sonores et les pratiques de recherche;
+- enrichir les sciences de l’information et des MIR en intégrant des exemples ethnomusicologiques dans les 
+recherches et le développement de systèmes intelligents; 3
+- étudier le concept de style musical à travers une analyse diachronique comparative d'un corpus de musique et transformer les caractéristiques extraites du 
+  même corpus dans de nouveaux styles.
+  
+"L'ère numérique et ses effets sur le patrimoine matériel et immatériel" est le thème le plusreprésentatif, ainsi que les "Représentations et usages du passé." DaCaRyH étudiera en particulier la tradition musicale du calypso de Trinidad et se focalisera sur des questions ethnomusicologiques concrètes et difficiles, qui nécessitent une aide des technologies MIR. DaCaRyH va contribuer à ouvrir la voie aux "Big Data" culturelles 
+et à l'analyse du patrimoine culturel à grande échelle, impossible sans calcul. Sont impliqués le Centre de Recherche pour l'Ethnomusicologie (CREM - LESC, France), et le Centre for Digital Music (C4DM, Queen Mary University, Royaume-Uni). Le CREM-LESC offre un accès à une grande base audio accessible par tous grâce à une plateforme web. C4DM est leader mondial en sciences de l’information pour la musique. DaCaRyH se traduira par 2 propositions d’articles, dans les domaines respectifs de chaque porteur, une proposition de numéro spécial d’une revue concernant les études culturelles et les sciences, une composition musicale et un concert impliquant l'utilisation des outils développés dans DaCaRyH, ainsi qu’une amélioration des outils intégrés dans la plateforme web des archives du CREM-LESC. 
 
 
 
