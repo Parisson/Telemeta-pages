@@ -46,10 +46,13 @@ Le fonds d’archives sonores du CNRS – Musée de l’Homme rassemble des enre
 Pour une présentation historique du fonds, voir `le site du CREM <http://crem-cnrs.fr/archives-sonores>`_. 
 
 
-.. figure:: home_img.png
+.. image:: home_img.png
    :align: left
+   :width: 250 px
+   :alt: Quadrophonic, dr02, Birdsong - © Aurélie Helmlinger
+
         
- Quadrophonic, dr02, Birdsong - © Aurélie Helmlinger 
+.. image legend : Quadrophonic, dr02, Birdsong - © Aurélie Helmlinger 
 
  
 Description du projet
