@@ -44,11 +44,13 @@ The audio archives of the CNRS – Musée de l’Homme gather commercial and unp
 For a historical presentation of these archives, see `the website of the CREM <http://crem-cnrs.fr>`_.
 
 
-
-.. figure:: ../images/quadrophonic_dr02_birdsong.png
+.. image:: home_img.png
    :align: left
+   :width: 250 px
+   :alt: Quadrophonic, dr02, Birdsong - © Aurélie Helmlinger
+
         
- Quadrophonic, dr02, Birdsong - © Aurélie Helmlinger 
+.. image legend : Quadrophonic, dr02, Birdsong - © Aurélie Helmlinger 
   
 
 Description of the project
