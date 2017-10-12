@@ -13,9 +13,6 @@ Devenu Centre français du patrimoine culturel immatériel (CFPCI) en 2011, le C
  La base de données Ibn Battuta
 ================================
 
-.. image:: ibnbat_t.jpg
-   :align: left
-
 Un programme de numérisation, de catalogage et d'indexation, toujours en cours, a permis de réunir dans une base de données en ligne le fonds documentaire du CFPCI et d'en organiser les documents par types, thèmes et aires culturelles.
 Cette base de données à été baptisée Ibn Battuta en hommage au célèbre voyageur marocain du XIVe siècle qui parcourut le monde pendant plus de vingt années et rapporta de ses voyages des descriptions très précises pour l'époque.
 
