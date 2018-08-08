@@ -16,7 +16,7 @@ Display audio player options are being developed by the `DIADEMS <http://www.iri
 Contents
 --------
 
-.. image:: home_img.jpg
+.. image:: /pages/home_img.jpg
     :align: left
 
 Managed by the `Center for Research in Ethnomusicology (CREM) <http://crem-cnrs.fr>`_, these archives index:

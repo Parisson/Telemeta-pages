@@ -18,7 +18,7 @@ Les options d'affichage du lecteur audio sont en cours d'élaboration par l'ANR 
 Contenu
 -------	
 
-.. image:: home_img.jpg
+.. image:: /pages/home_img.jpg
    :align: left 
 	
 Géré par le `Centre de Recherche en Ethnomusicologie (CREM) <http://crem-cnrs.fr>`_ cette base de données répertorie :

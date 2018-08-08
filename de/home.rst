@@ -14,7 +14,7 @@ News
 Das Archiv CREM / LESC ist Teil des European sound portal (2014-2017) : `Europeana Sounds <http://www.europeanasounds.eu>`_.
 Die Display Optionen des Audio Players werden im Rahmen des DIADEMS Programms entwickelt. Da sich dieses Programm in der Aufbauphase befindet, sind noch nicht alle Funktionen im Betrieb. Wir bitten um ihr Verständnis.
 
-.. image:: home_img.jpg
+.. image:: /pages/home_img.jpg
     :align: left
 
 Inhalte 
