@@ -11,7 +11,7 @@ Mentions Légales
 
 **Directeur de publication :**
 
- | Victor A. Stoichiţă (directeur du CREM)
+ | Aurélie Helmlinger (directeur du CREM)
  | e-mail : crem.lesc (at) cnrs.fr
 
 **Chef de projet et conception :**
@@ -22,7 +22,7 @@ Mentions Légales
 **Responsable des archives du CREM :**
 
  | Aude Da Cruz-Lima (CREM)
- | e-mail : aude.da-cruz-lima (at) mae.u-paris10.fr
+ | e-mail : aude.da-cruz-lima (at) cnrs.fr
  
 **Chef du développement et conception:**
 
