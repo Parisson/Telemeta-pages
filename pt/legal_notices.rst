@@ -11,7 +11,7 @@ Legal Notices
 
 **Managing editor:**
 
- | Victor A. Stoichiţă (director du CREM)
+ | Aurélie Helmlinger (director du CREM)
  | e-mail : crem.lesc (at) cnrs.fr
 
 **Design and project manager:**
@@ -22,7 +22,7 @@ Legal Notices
 **Head of archives at CREM :**
 
  | Aude Da Cruz-Lima (CREM)
- | e-mail : aude.da-cruz-lima (at) mae.u-paris10.fr
+ | e-mail : aude.da-cruz-lima (at) cnrs.fr
  
 **Design and head of development:**
 
