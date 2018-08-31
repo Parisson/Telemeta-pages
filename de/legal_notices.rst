@@ -7,13 +7,13 @@ Juristische Hinweise
 **Site editor:**
 
  | Centre de Recherche en Ethnomusicologie (CREM - LESC UMR 7186 CNRS) 
- | MAE - 21, allée de l'Université
+ | MAE - 21, allée de l'Université. Bâtiment Max Weber
  | 92023 Nanterre cedex
  | France
 
 **Managing editor:**
 
- | Victor A. Stoichiţă (director du CREM)
+ | Aurélie Helmlinger (director du CREM)
  | e-mail : crem.lesc (at) cnrs.fr
 
 **Design and project manager:**
@@ -24,7 +24,7 @@ Juristische Hinweise
 **Head of archives at CREM :**
 
  | Aude Da Cruz-Lima (CREM)
- | e-mail : aude.da-cruz-lima (at) mae.u-paris10.fr
+ | e-mail : aude.da-cruz-lima (at) cnrs.fr
  
 **Design and head of development:**
 
