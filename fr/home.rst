@@ -4,7 +4,7 @@ Archives sonores du CNRS - Musée de l'Homme
 	
 |
 
-Le fonds d’archives sonores du CNRS – Musée de l’Homme rassemble des enregistrements, inédits ou publiés, de musique de tradition orale et d'enquêtes ethnographiques du monde entier, de 1900 à 2009. Constitué de supports variés (cylindres, 78 tours, disques vinyles, bandes magnétiques, cassettes, CDs audios, DVD, supports numériques), ce fonds se positionne parmi les plus importants d’Europe en terme de qualité, de quantité et de diversité. Le Centre de Recherche en Ethnomusicologie (CREM), qui a quitté le Musée depuis 2009, continue à gérer ce patrimoine scientifique immatériel. Chaque année, de nouveaux  dépôts enrichissent ces archives.
+Le fonds d’archives sonores du CNRS – Musée de l’Homme rassemble des enregistrements, inédits ou publiés, de musiques de tradition orale et d'enquêtes ethnographiques du monde entier, de 1900 à 2009. Constitué de supports variés (cylindres, 78 tours, disques vinyles, bandes magnétiques, cassettes, CDs audios, DVD, supports numériques), ce fonds se positionne parmi les plus importants d’Europe en terme de qualité, de quantité et de diversité. Le `Centre de Recherche en Ethnomusicologie (CREM) <http://lesc-cnrs.fr/fr/centre-de-recherche-en-ethnomusicologie>`_, qui a quitté le Musée de l'Homme (MNHN) en 2009, continue à gérer ce patrimoine scientifique commun au Muséum et au CNRS. Chaque année, de nouveaux dépôts enrichissent ces archives.
 
 Pour une présentation historique du fonds, voir `le site du CREM <http://lesc-cnrs.fr/fr/archives-sonores-cnrsmh>`_. 
 
