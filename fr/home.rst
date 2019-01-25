@@ -4,13 +4,16 @@ Archives sonores du CNRS - Musée de l'Homme
 	
 |
 
-Le fonds d’archives sonores du CNRS – Musée de l’Homme rassemble des enregistrements, inédits ou publiés, de musiques de tradition orale et d'enquêtes ethnographiques du monde entier, de 1900 à 2009. Constitué de supports variés (cylindres, 78 tours, disques vinyles, bandes magnétiques, cassettes, CDs audios, DVD, supports numériques), ce fonds se positionne parmi les plus importants d’Europe en terme de qualité, de quantité et de diversité. Le `Centre de Recherche en Ethnomusicologie (CREM) <http://lesc-cnrs.fr/fr/centre-de-recherche-en-ethnomusicologie>`_, qui a quitté le Musée de l'Homme (MNHN) en 2009, continue à gérer ce patrimoine scientifique commun au Muséum et au CNRS. Chaque année, de nouveaux dépôts enrichissent ces archives.
+Ce fonds d’archives sonores et audiovisuelles rassemble des enregistrements, inédits ou publiés, de musiques de tradition orale et d'enquêtes ethnographiques du monde entier, de 1900 à nos jours. Constitué de supports variés (cylindres, 78 tours, disques vinyles, bandes magnétiques, cassettes, CDs audios, DVD, supports numériques), il se positionne parmi les plus importants au monde en termes de quantité, de diversité, et de qualité.
+
+Le `Centre de Recherche en Ethnomusicologie (CREM) <http://lesc-cnrs.fr/fr/centre-de-recherche-en-ethnomusicologie>`_ du `LESC <http://lesc-cnrs.fr>`_ ( `CNRS <http://www.cnrs.fr/inshs/>`_ / `Université Paris Nanterre <https://www.parisnanterre.fr/>`) est chargé de la gestion et de la valorisation de ce patrimoine scientifique en constant enrichissement. Les acquisitions effectuées de 1931 jusqu'en 2009 au musée de l’Homme sont en co-propriété avec le `MNHN <https://www.mnhn.fr>`_, sous l’appellation « archives sonores CNRS-Musée de l’Homme » ; celles qui sont postérieures à cette date dépendent désormais du CNRS.
+
 
 Pour une présentation historique du fonds, voir `le site du CREM <http://lesc-cnrs.fr/fr/archives-sonores-cnrsmh>`_. 
 
 Actualités
 -----------
-CRISTAL collectif en novembre 2018: le CNRS décerne cette récompense aux équipes d'ingénieurs pour leur projet collectif innovant. 
+CRISTAL collectif : l’équipe dédiée aux « archives sonores du CNRS – Musée de l’Homme (MNHN) » est lauréate en 2019 de cette récompense décernée par le CNRS aux équipes d'ingénieurs et de techniciens pour leur projet collectif innovant. 
 
 Les archives participent au portail sonore européen (2014-2017) : `Europeana Sounds <http://www.europeanasounds.eu>`_ et sont disponibles sur `Europeana <http://www.europeana.eu>`_
 
@@ -22,7 +25,7 @@ Contenu
 .. image:: /pages/home_img.jpg
    :align: left 
 	
-Géré par le `Centre de Recherche en Ethnomusicologie (CREM) <http://lesc-cnrs.fr/fr/centre-de-recherche-en-ethnomusicologie>`_ cette base de données répertorie :
+Gérée par le `Centre de Recherche en Ethnomusicologie (CREM) <http://lesc-cnrs.fr/fr/centre-de-recherche-en-ethnomusicologie>`_ cette base de données répertorie :
 
 |  ✔ Plus de 48 000 documents sonores inédits, dont 40 000 sont numérisés, représentant près de 4 000 heures d'enregistrements de terrain.
 |  ✔ Plus de 18 000 enregistrements sonores édités, dont 7 400 sont numérisés et accessibles (soit plus de 5 600 disques dont beaucoup sont très rares).
@@ -39,7 +42,7 @@ Le catalogue est organisé en 4 niveaux : Fonds, Corpus, Collection et Items. L
 
 Grâce au soutien du Ministère de la Culture et aux projets de recherche portés par cette plateforme innovante, le nombre d’enregistrements mis en ligne sur la plateforme est en constante augmentation. Ils sont signalés en vert. Les fiches descriptives sont renseignées progressivement et de manière collaborative par les usagers de la plateforme : chercheurs, étudiants, documentalistes. 
 
-Le CREM accueille toutes les collaborations visant à enrichir et valoriser ce précieux patrimoine. Ecrivez-nous à crem.lesc (at) cnrs.fr.
+Le CREM accueille toutes les collaborations visant à enrichir et valoriser ce précieux patrimoine. Écrivez-nous à crem.lesc (at) cnrs.fr.
 
 |
 
