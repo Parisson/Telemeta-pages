@@ -13,7 +13,8 @@ Pour une présentation historique du fonds, voir `le site du CREM <http://lesc-c
 
 Actualités
 -----------
-CRISTAL collectif : l’équipe dédiée aux « archives sonores du CNRS – Musée de l’Homme (MNHN) » est lauréate en 2019 de cette récompense décernée par le CNRS aux équipes d'ingénieurs et de techniciens pour leur projet collectif innovant. 
+
+`CRISTAL collectif <http://www.cnrs.fr/fr/cnrsinfo/cristal-collectif-du-cnrs>`_ : l’équipe dédiée aux « archives sonores du CNRS – Musée de l’Homme (MNHN) » est lauréate en 2019 de cette récompense décernée par le CNRS aux équipes d'ingénieurs et de techniciens pour leur projet collectif innovant. 
 
 Les archives participent au portail sonore européen (2014-2017) : `Europeana Sounds <http://www.europeanasounds.eu>`_ et sont disponibles sur `Europeana <http://www.europeana.eu>`_
 
@@ -27,7 +28,7 @@ Contenu
 	
 Gérée par le `Centre de Recherche en Ethnomusicologie (CREM) <http://lesc-cnrs.fr/fr/centre-de-recherche-en-ethnomusicologie>`_ cette base de données répertorie :
 
-|  ✔ Plus de 48 000 documents sonores inédits, dont 40 000 sont numérisés, représentant près de 4 000 heures d'enregistrements de terrain.
+|  ✔ Plus de 48 000 documents sonores inédits, dont 40 000 sont numérisés, représentant près de 4 000 heures d'enregistrements de terrain.  
 
 
 |  ✔ Plus de 18 000 enregistrements sonores édités, dont 7 400 sont numérisés et accessibles (soit plus de 5 600 disques dont beaucoup sont très rares).
