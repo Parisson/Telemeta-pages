@@ -2,22 +2,10 @@
 Help pages for Telemeta
 ========================
 
-In order to get access to some resticted items on this site, please contact:
+In order to get access to some resticted items on this site or get technical assistance, please contact:
 
-    Aude Julien <aude.da-cruz-lima (at) mae.u-paris10.fr>
+    Esther Magnière <esther.magniere (at) cnrs.fr>
 
-For technical assistance, please join our mailing list:
+This site uses the `Telemeta <http://telemeta.org>`_ application.
 
-    `http://lists.parisson.com/cgi-bin/mailman/listinfo/telemeta <http://lists.parisson.com/cgi-bin/mailman/listinfo/telemeta>`_
-
-or contact the hotline by email:
-
-     support@parisson.com
-
-or twitter :
-
-    `http://twitter.com/telemeta <http://twitter.com/telemeta>`_
-
-For more informations about the Telemeta system, see `telemeta.org <http://telemeta.org>`_
-
-Telemeta uses the audio librairy TimeSide : `code.google.com/p/timeside/ <http://code.google.com/p/timeside/>`_
+Telemeta uses the audio framework `TimeSide <https://github.com/yomguy/TimeSide>`_.
