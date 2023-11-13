@@ -9,7 +9,7 @@ Ce fonds d’archives sonores et audiovisuelles rassemble des enregistrements, i
 Le `Centre de Recherche en Ethnomusicologie (CREM) <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_ du `LESC <http://lesc-cnrs.fr>`_ ( `CNRS <http://www.cnrs.fr/inshs/>`_ / `Université Paris Nanterre <https://www.parisnanterre.fr/>`_) est chargé de la gestion et de la valorisation de ce patrimoine scientifique en constant enrichissement. Les acquisitions effectuées de 1931 jusqu'en 2009 au musée de l’Homme sont en co-propriété avec le `MNHN <https://www.mnhn.fr>`_, sous l’appellation « archives sonores CNRS-Musée de l’Homme » ; celles qui sont postérieures à cette date dépendent désormais du CNRS.
 
 
-Pour une présentation historique du fonds, voir la `page du Pôle documentaire du Lesc <https://lesc-cnrs.fr/fr/laboratoire/pole-documentaire>`_ et `l’article d’Aude Julien Da Cruz Lima` <https://journals.openedition.org/afas/4032>_ publié dans le Bulletin de l’AFAS.
+Pour une présentation historique du fonds, voir la `page du Pôle documentaire du Lesc <https://lesc-cnrs.fr/fr/laboratoire/pole-documentaire>`_ et l’`article d’Aude Julien Da Cruz Lima <https://journals.openedition.org/afas/4032>`_ publié dans le Bulletin de l’AFAS.
 
 Actualités
 -----------
