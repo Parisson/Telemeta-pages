@@ -6,7 +6,7 @@ Tonarchiv des CNRS - Musée de l'Homme
 
 Mit Beginn des Jahres 1900 bis in die heutige Zeit sammelt das Audioarchiv des CNRS - Musée de l’Homme veröffentlichte und nicht veröffentlichte Musikaufnahmen und Zeugnisse oraler Traditionen aus aller Welt. Das Archiv ist eines der bedeutendsten und qualitativ hochwertigsten Europas, was sich an der enormen Vielfalt von Klangaufnahmen ablesen lässt, welche auf verschiedensten Medien (Wachswalzen, 78 rpm, Schallplatten, Magnetbändern, Kassetten, Audio CDs und digitaler Aufnahmen) dokumentiert sind.
 
-Mehr über die Geschichte des Archivs erfahren sie hier :`CREM website <http://lesc-cnrs.fr/fr/centre-de-recherche-en-ethnomusicologie>`_.
+Mehr über die Geschichte des Archivs erfahren sie hier :`CREM website <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_.
 
 News
 ----
@@ -26,13 +26,13 @@ Inhalte
 -------
 
 
-Das Archiv ist Teil des `Centre de Recherche en Ethnomusicologie (CREM) <http://lesc-cnrs.fr/fr/centre-de-recherche-en-ethnomusicologie>`_. und umfasst:
+Das Archiv ist Teil des `Centre de Recherche en Ethnomusicologie (CREM) <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_. und umfasst:
 
 |  ✔  Über 48.000 unveröffentlichte Klangdokumente, von denen 40.000 verteilt für den Hörer zugänglich sind, was 4.000 Aufnahmestunden dieser unveröffentlichten Feldaufnahmen entspricht.
 |  ✔ Über 17.000 veröffentlichtes Material, wovon 4.600 in mehr als 5.000 Sammlungen mit mehr als 4.000 Stunden gehört werden können (darunter befinden sich 5.000 Schallplatten, wovon einige sehr selten sind)
 |  ✔ Klangaufnahmen aus 199 Länder und 1.200 ethnischen bzw. sozialen Gruppen, was einen Zugang zu einer hohen Bandbreite an musikalischen Praktiken, Sprachen, Gesängen und Dialekten bedeutet. 
 
-Derzeit stehen 27.000 Aufnahmen als frei zugänglich (free access) zur Verfügung. Die anderen sind mittels Zugangscode (access code) abrufbar. Um diesen zu erhalten, schreiben Sie bitte an crem.lesc (at) cnrs.fr und begründen Sie ihre Anfrage. Die Archivdatenbank ist auch auf den Computern des CREM einsehbar, sowie auf den Seiten der `Bibliothèque Eric de Dampierre <http://lesc-cnrs.fr/fr/bibliotheque-eric-de-dampierre>`_, der `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ und der `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_.
+Derzeit stehen 27.000 Aufnahmen als frei zugänglich (free access) zur Verfügung. Die anderen sind mittels Zugangscode (access code) abrufbar. Um diesen zu erhalten, schreiben Sie bitte an crem.lesc (at) cnrs.fr und begründen Sie ihre Anfrage. Die Archivdatenbank ist auch auf den `Computern des CREM einsehbar <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_, sowie auf den Seiten der `Bibliothèque Eric de Dampierre <http://lesc-cnrs.fr/fr/bibliotheque-eric-de-dampierre>`_, der `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ und der `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_.
 
 |
 

@@ -1,12 +1,12 @@
 Arquivos sonoros do CNRS - Musée de l’Homme
 -------------------------------------------
 
-Os arquivos sonoros do CNRS – Musée de l’Homme reúnem gravações, inéditas ou publicadas, de música e tradições orais de diferentes lugares do mundo, de 1900 à atualidade. Trata-se de um dos acervos sonoros mais importantes da Europa em termos de qualidade e diversidade, abrangendo diferentes suportes (fitas magnéticas, cilindros, discos 78 r.p.m. e de vinil, cassetes, suportes digitais). Uma apresentação histórica do acervo pode ser consultada no `site do CREM <http://lesc-cnrs.fr/fr/archives-sonores-cnrsmh>`_. 
+Os arquivos sonoros do CNRS – Musée de l’Homme reúnem gravações, inéditas ou publicadas, de música e tradições orais de diferentes lugares do mundo, de 1900 à atualidade. Trata-se de um dos acervos sonoros mais importantes da Europa em termos de qualidade e diversidade, abrangendo diferentes suportes (fitas magnéticas, cilindros, discos 78 r.p.m. e de vinil, cassetes, suportes digitais). Uma apresentação histórica do acervo pode ser consultada no `site do CREM <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_.
 
 Conteúdo
 --------
 
-Administrado pelo `Centre de Recherche en Ethnomusicologie (CREM) <http://lesc-cnrs.fr/fr/centre-de-recherche-en-ethnomusicologie>`_, este banco de dados é composto por:
+Administrado pelo `Centre de Recherche en Ethnomusicologie (CREM) <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_, este banco de dados é composto por:
 
 Mais de 48.000 documentos inéditos, dos quais 38.000 digitalizados, incluindo aproximadamente 4.000 gravações inéditas, realizadas em pesquisas de campo.
 

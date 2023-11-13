@@ -6,10 +6,10 @@ Archives sonores du CNRS - Musée de l'Homme
 
 Ce fonds d’archives sonores et audiovisuelles rassemble des enregistrements, inédits ou publiés, de musiques de tradition orale et d'enquêtes ethnographiques du monde entier, de 1900 à nos jours. Constitué de supports variés (cylindres, 78 tours, disques vinyles, bandes magnétiques, cassettes, CDs audios, DVD, supports numériques, vidéos), il se positionne parmi les plus importants au monde en termes de quantité, de diversité, et de qualité.
 
-Le `Centre de Recherche en Ethnomusicologie (CREM) <http://lesc-cnrs.fr/fr/centre-de-recherche-en-ethnomusicologie>`_ du `LESC <http://lesc-cnrs.fr>`_ ( `CNRS <http://www.cnrs.fr/inshs/>`_ / `Université Paris Nanterre <https://www.parisnanterre.fr/>`_) est chargé de la gestion et de la valorisation de ce patrimoine scientifique en constant enrichissement. Les acquisitions effectuées de 1931 jusqu'en 2009 au musée de l’Homme sont en co-propriété avec le `MNHN <https://www.mnhn.fr>`_, sous l’appellation « archives sonores CNRS-Musée de l’Homme » ; celles qui sont postérieures à cette date dépendent désormais du CNRS.
+Le `Centre de Recherche en Ethnomusicologie (CREM) <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_ du `LESC <http://lesc-cnrs.fr>`_ ( `CNRS <http://www.cnrs.fr/inshs/>`_ / `Université Paris Nanterre <https://www.parisnanterre.fr/>`_) est chargé de la gestion et de la valorisation de ce patrimoine scientifique en constant enrichissement. Les acquisitions effectuées de 1931 jusqu'en 2009 au musée de l’Homme sont en co-propriété avec le `MNHN <https://www.mnhn.fr>`_, sous l’appellation « archives sonores CNRS-Musée de l’Homme » ; celles qui sont postérieures à cette date dépendent désormais du CNRS.
 
 
-Pour une présentation historique du fonds, voir `le site du CREM <http://lesc-cnrs.fr/fr/archives-sonores-cnrsmh>`_. 
+Pour une présentation historique du fonds, voir la `page du Pôle documentaire du Lesc <https://lesc-cnrs.fr/fr/laboratoire/pole-documentaire>`_ et `l’article d’Aude Julien Da Cruz Lima` <https://journals.openedition.org/afas/4032>_ publié dans le Bulletin de l’AFAS.
 
 Actualités
 -----------
@@ -18,7 +18,7 @@ Actualités
 
 Les archives participent au portail sonore européen (2014-2017) : `Europeana Sounds <http://www.europeanasounds.eu>`_ et sont disponibles sur `Europeana <http://www.europeana.eu>`_
 
-Les options d'affichage du lecteur audio développées grâce à l'ANR `DIADEMS <http://www.irit.fr/recherches/SAMOVA/DIADEMS/fr/welcome/>`_ sont utilisables avec un compte utilisateur.
+Les options d'affichage du lecteur audio développées grâce à l'ANR `DIADEMS <https://www.irit.fr/SAMOVA/site/projects/previous/diadems/>`_ sont utilisables avec un compte utilisateur.
 
 Contenu
 -------	
@@ -26,7 +26,7 @@ Contenu
 .. image:: /pages/home_img.jpg
    :align: left 
 	
-Gérée par le `Centre de Recherche en Ethnomusicologie (CREM) <http://lesc-cnrs.fr/fr/centre-de-recherche-en-ethnomusicologie>`_ cette base de données répertorie :
+Gérée par le `Centre de Recherche en Ethnomusicologie (CREM) <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_ cette base de données répertorie :
 
 |  ✔ Plus de 48 000 documents sonores inédits, dont 40 000 sont numérisés, représentant près de 4 000 heures d'enregistrements de terrain.  
 
@@ -37,7 +37,7 @@ Gérée par le `Centre de Recherche en Ethnomusicologie (CREM) <http://lesc-cnrs
 |  ✔ 199 pays sont représentés à travers plus de 1 300 groupes ethniques ou sociaux, donnant à entendre une large palette de pratiques musicales (instrumentales et vocales), de langues et de dialectes.
 
 
-Actuellement, 27 000 enregistrements sont en libre accès. D'autres sont consultables avec un code d'accès. Pour l'obtenir écrivez à crem.lesc (at) cnrs.fr en expliquant les motifs de votre demande. Le fonds d'archives est également consultable sur les postes dédiés disponibles au `CREM <http://lesc-cnrs.fr/fr/centre-de-recherche-en-ethnomusicologie>`_, à la `Bibliothèque Eric de Dampierre <http://lesc-cnrs.fr/en/bibliotheque-eric-de-dampierre>`_, à la `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ et à la `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_. 
+Actuellement, 27 000 enregistrements sont en libre accès. D'autres sont consultables avec un code d'accès. Pour l'obtenir écrivez à crem.lesc (at) cnrs.fr en expliquant les motifs de votre demande. Le fonds d'archives est également consultable sur les postes dédiés disponibles au `CREM <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_, à la `Bibliothèque Eric de Dampierre <http://lesc-cnrs.fr/en/bibliotheque-eric-de-dampierre>`_, à la `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ et à la `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_.
 
 |
 
