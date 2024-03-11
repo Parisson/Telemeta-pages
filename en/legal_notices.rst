@@ -15,7 +15,7 @@ Legal Notices
  | Victor Stoichita (directeur du CREM)
  | e-mail : crem.lesc (at) cnrs.fr
 
-**Archive manager of the CREM**
+**Archive manager**
 
   | Esther Magnière (CREM)
   | e-mail : esther.magniere (at) cnrs.fr

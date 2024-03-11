@@ -36,7 +36,7 @@ Managed by the `Center for Research in Ethnomusicology (CREM) <https://lesc-cnrs
 | ✔ 199 countries, and 1,300 ethnic and social groups are represented, making it possible to hear a wide array of musical and sung expressions, languages and dialects. 
 
 
-Today, about 27,000 recordings are available for listening on free access. The others are only available with an access code. To obtain one, write to crem.lesc (at) cnrs.fr, explaining the reasons for your request. The archives database is also available on computer sets at the `CREM <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_, at the `Bibliothèque Eric de Dampierre <http://lesc-cnrs.fr/en/bibliotheque-eric-de-dampierre>`_, at the `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ and at the `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_.
+Today, about 27,000 recordings are available for listening on free access. The others are only available with an access code. To obtain one, write to crem.lesc (at) cnrs.fr, explaining the reasons for your request. The archives database is also available on computer stations at the `CREM <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_, at the `Eric de Dampierre documentary resources center <https://lesc-cnrs.fr/fr/laboratoire/pole-documentaire>`_, at the `Media Library of the Musée du Quai Branly <https://www.quaibranly.fr/fr/explorer-les-collections>`_ and at the `Library of the Muséum national d’Histoire naturelle <https://bibliotheques.mnhn.fr/medias/>`_.
 
 |
 

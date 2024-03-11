@@ -36,8 +36,7 @@ Gérée par le `Centre de Recherche en Ethnomusicologie (CREM) <https://lesc-cnr
 
 |  ✔ 199 pays sont représentés à travers plus de 1 300 groupes ethniques ou sociaux, donnant à entendre une large palette de pratiques musicales (instrumentales et vocales), de langues et de dialectes.
 
-
-Actuellement, 27 000 enregistrements sont en libre accès. D'autres sont consultables avec un code d'accès. Pour l'obtenir écrivez à crem.lesc (at) cnrs.fr en expliquant les motifs de votre demande. Le fonds d'archives est également consultable sur les postes dédiés disponibles au `CREM <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_, à la `Bibliothèque Eric de Dampierre <http://lesc-cnrs.fr/en/bibliotheque-eric-de-dampierre>`_, à la `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ et à la `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_.
+Actuellement, 27 000 enregistrements sont en libre accès. D'autres sont consultables avec un code d'accès. Pour l'obtenir écrivez à crem.lesc (at) cnrs.fr en expliquant les motifs de votre demande. Le fonds d'archives est également consultable sur les postes dédiés disponibles au `CREM <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_, au Centre de ressources Eric de Dampierre (voir la `page du pôle documentaire du Lesc <https://lesc-cnrs.fr/fr/laboratoire/pole-documentaire>`_), à la `Médiathèque du Musée du Quai Branly <https://www.quaibranly.fr/fr/explorer-les-collections>`_ et à la `Bibliothèque du Muséum National d’Histoire Naturelle <https://bibliotheques.mnhn.fr/medias/>`_.
 
 |
 
