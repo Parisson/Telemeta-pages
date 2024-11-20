@@ -28,15 +28,15 @@ Contenu
 	
 Gérée par le `Centre de Recherche en Ethnomusicologie (CREM) <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_ cette base de données répertorie :
 
-|  ✔ Plus de 48 000 documents sonores inédits, dont 40 000 sont numérisés, représentant près de 4 000 heures d'enregistrements de terrain.  
+|  ✔ Plus de 56 000 documents sonores inédits, dont 48 000 sont numérisés, représentant près de 6 000 heures d'enregistrements de terrain.
 
 
-|  ✔ Plus de 18 000 enregistrements sonores édités, dont 7 400 sont numérisés et accessibles (soit plus de 5 600 disques dont beaucoup sont très rares).
+|  ✔ Plus de 19 000 enregistrements sonores édités, dont plus de 9 000 sont numérisés et accessibles, représentant plus de 3000 heures (soit plus de 5 700 disques dont beaucoup sont très rares).
 
 
-|  ✔ 199 pays sont représentés à travers plus de 1 300 groupes ethniques ou sociaux, donnant à entendre une large palette de pratiques musicales (instrumentales et vocales), de langues et de dialectes.
+|  ✔ Plus de 200 pays sont représentés à travers plus de 1 200 groupes ethniques ou sociaux, donnant à entendre une large palette de pratiques musicales (instrumentales et vocales), de langues et de dialectes.
 
-Actuellement, 27 000 enregistrements sont en libre accès. D'autres sont consultables avec un code d'accès. Pour l'obtenir écrivez à crem.lesc (at) cnrs.fr en expliquant les motifs de votre demande. Le fonds d'archives est également consultable sur les postes dédiés disponibles au `CREM <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_, au Centre de ressources Eric de Dampierre (voir la `page du pôle documentaire du Lesc <https://lesc-cnrs.fr/fr/laboratoire/pole-documentaire>`_), à la `Médiathèque du Musée du Quai Branly <https://www.quaibranly.fr/fr/explorer-les-collections>`_ et à la `Bibliothèque du Muséum National d’Histoire Naturelle <https://bibliotheques.mnhn.fr/medias/>`_.
+Actuellement, plus de 32 000 enregistrements sont en libre accès. Plus de 24 500 sont consultables avec un code d'accès. Pour l'obtenir écrivez à crem.lesc (at) cnrs.fr en expliquant les motifs de votre demande. Le fonds d'archives est également consultable sur les postes dédiés disponibles au `CREM <https://lesc-cnrs.fr/fr/laboratoire/lesc-crem>`_, au Centre de ressources Eric de Dampierre (voir la `page du pôle documentaire du Lesc <https://lesc-cnrs.fr/fr/laboratoire/pole-documentaire>`_), à la `Médiathèque du Musée du Quai Branly <https://www.quaibranly.fr/fr/explorer-les-collections>`_ et à la `Bibliothèque du Muséum National d’Histoire Naturelle <https://bibliotheques.mnhn.fr/medias/>`_.
 
 |
 
